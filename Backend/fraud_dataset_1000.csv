@@ -1,0 +1,1001 @@
+Transaction_ID,User_ID,Transaction_Amount,Account_Age_Months,Number_of_Transactions_Last_24H,Previous_Fraudulent_Transactions,Device_Used,Location,Payment_Method,Transaction_Type,Fraudulent
+1,1102,147.17760482885149,77,18,2,Tablet,USA,Credit Card,Purchase,0
+2,1435,81.23297391581181,72,5,4,Tablet,UK,Crypto,Transfer,0
+3,1860,31.474618836364897,87,19,3,Mobile,Unknown,Bank Transfer,Withdrawal,0
+4,1270,154.1548949666165,43,15,2,Unknown,India,Credit Card,Withdrawal,0
+5,1106,95.41840618989528,1,8,2,Mobile,India,Bank Transfer,Transfer,0
+6,1071,149.51265247893846,109,17,3,Unknown,USA,Credit Card,Transfer,1
+7,1700,36.222893648225316,51,1,4,Unknown,India,Debit Card,Withdrawal,0
+8,1020,76.02499908184909,24,12,0,Desktop,USA,Credit Card,Withdrawal,0
+9,1614,100.20974798872733,99,19,3,Desktop,USA,Bank Transfer,Purchase,0
+10,1121,101.87922375058969,24,15,3,Mobile,UK,Crypto,Withdrawal,0
+11,1466,81.99738114083026,17,9,3,Unknown,India,Crypto,Transfer,0
+12,1214,124.91399729389995,5,7,2,Tablet,USA,Crypto,Purchase,0
+13,1330,57.29518282469623,20,2,1,Desktop,UK,Credit Card,Transfer,0
+14,1458,94.30482059914826,21,9,0,Tablet,Germany,Debit Card,Purchase,0
+15,1087,104.81182526847596,104,10,4,Mobile,UK,Credit Card,Transfer,0
+16,1372,120.57755336234996,58,2,4,Desktop,UK,Crypto,Withdrawal,0
+17,1099,128.4645951235556,31,19,1,Desktop,USA,Bank Transfer,Transfer,0
+18,1871,55.01431632648523,110,11,3,Unknown,Unknown,Crypto,Purchase,0
+19,1663,38.63543317057511,100,13,0,Mobile,Unknown,Bank Transfer,Transfer,0
+20,1130,151.10707287594036,11,10,4,Unknown,Unknown,Debit Card,Purchase,0
+21,1661,113.29256047918366,52,14,4,Desktop,UK,Bank Transfer,Transfer,0
+22,1308,70.06053853773786,15,18,3,Mobile,USA,Credit Card,Withdrawal,0
+23,1769,162.04607902090092,83,19,1,Desktop,India,Credit Card,Withdrawal,0
+24,1343,104.62698537171434,7,9,0,Mobile,UK,Credit Card,Transfer,0
+25,1491,147.17188736255306,115,7,1,Desktop,UK,Bank Transfer,Transfer,0
+26,1413,102.70073925640436,28,3,1,Tablet,USA,Credit Card,Transfer,0
+27,1805,182.42991699527948,51,6,0,Tablet,Germany,Credit Card,Purchase,0
+28,1385,170.21363369772817,107,2,0,Unknown,UK,Credit Card,Transfer,0
+29,1191,90.04143406083706,58,6,4,Tablet,Germany,Debit Card,Transfer,0
+30,1955,138.86283803817423,5,3,4,Desktop,Germany,Bank Transfer,Purchase,0
+31,1276,125.8150379834059,5,16,0,Desktop,Unknown,Bank Transfer,Withdrawal,0
+32,1160,154.74526230129396,94,8,2,Tablet,USA,Crypto,Transfer,0
+33,1459,61.40306157679582,118,2,4,Unknown,Germany,Bank Transfer,Transfer,0
+34,1313,127.44205839993757,96,17,2,Tablet,USA,Debit Card,Withdrawal,0
+35,1021,142.33697947398352,8,9,0,Mobile,Unknown,Bank Transfer,Withdrawal,0
+36,1252,29.650420543075427,64,12,4,Mobile,USA,Debit Card,Purchase,0
+37,1747,52.669659493369,10,3,1,Mobile,UK,Debit Card,Transfer,0
+38,1856,18.43071288959598,38,11,0,Tablet,Germany,Bank Transfer,Transfer,0
+39,1560,89.2237266222177,111,1,3,Tablet,USA,Crypto,Purchase,0
+40,1474,128.70169023183848,96,13,2,Tablet,India,Credit Card,Withdrawal,0
+41,1058,160.0942820838411,112,15,0,Mobile,USA,Credit Card,Purchase,0
+42,1510,102.96379121679101,92,5,0,Unknown,Germany,Bank Transfer,Withdrawal,0
+43,1681,165.14462182285166,81,17,4,Desktop,Unknown,Bank Transfer,Purchase,0
+44,1475,44.79594167140434,95,6,4,Tablet,Unknown,Debit Card,Withdrawal,0
+45,1699,31.86470242579381,8,11,4,Unknown,Germany,Bank Transfer,Purchase,1
+46,1975,97.77809204413525,104,18,3,Desktop,UK,Debit Card,Withdrawal,0
+47,1782,115.3626179575723,25,4,4,Desktop,UK,Crypto,Withdrawal,0
+48,1189,98.69221007623628,73,3,0,Desktop,Unknown,Bank Transfer,Withdrawal,0
+49,1957,17.302315998404936,66,13,4,Unknown,Unknown,Credit Card,Withdrawal,0
+50,1686,96.43519841948846,79,9,1,Unknown,Germany,Credit Card,Withdrawal,0
+51,1957,47.821219979805875,50,6,4,Mobile,UK,Bank Transfer,Transfer,0
+52,1562,126.78690195320154,67,12,3,Unknown,Unknown,Debit Card,Withdrawal,0
+53,1875,114.66392984387393,49,2,1,Unknown,UK,Credit Card,Transfer,0
+54,1566,62.40480854690579,36,3,0,Unknown,Unknown,Debit Card,Withdrawal,0
+55,1243,79.44532330653226,68,3,0,Desktop,USA,Bank Transfer,Transfer,0
+56,1831,57.63145912444194,78,12,2,Tablet,India,Bank Transfer,Transfer,0
+57,1504,97.49283610907312,105,15,1,Mobile,USA,Credit Card,Purchase,0
+58,1130,138.20569282004953,41,9,2,Tablet,Unknown,Bank Transfer,Withdrawal,0
+59,1484,60.57095814657825,89,8,1,Tablet,India,Crypto,Purchase,0
+60,1818,120.16186062071378,119,11,1,Unknown,India,Crypto,Purchase,0
+61,1646,78.78969526510237,62,16,3,Mobile,Unknown,Credit Card,Withdrawal,0
+62,1020,68.28508670950623,114,4,2,Tablet,Unknown,Crypto,Purchase,0
+63,1840,95.71878560181769,10,1,3,Tablet,UK,Debit Card,Withdrawal,0
+64,1166,58.59030710322504,21,7,1,Mobile,Unknown,Credit Card,Purchase,0
+65,1273,77.85402778611271,36,2,0,Unknown,Germany,Credit Card,Withdrawal,0
+66,1387,52.08488429644606,12,5,1,Tablet,Unknown,Debit Card,Withdrawal,0
+67,1600,178.58900531665557,91,7,3,Desktop,Germany,Crypto,Withdrawal,0
+68,1315,101.41054207886914,104,4,2,Tablet,Unknown,Crypto,Transfer,0
+69,1013,72.01097968029657,2,5,2,Desktop,UK,Crypto,Purchase,0
+70,1241,108.55919642936888,118,1,3,Unknown,Germany,Credit Card,Transfer,0
+71,1776,95.50687801236681,13,1,2,Tablet,USA,Credit Card,Purchase,0
+72,1345,91.16121601867108,53,15,4,Mobile,Germany,Crypto,Purchase,0
+73,1564,124.56666800173701,32,19,0,Mobile,UK,Bank Transfer,Purchase,0
+74,1897,130.3003084018922,95,10,0,Tablet,Germany,Crypto,Transfer,0
+75,1339,78.7799540955789,16,18,0,Unknown,Unknown,Debit Card,Purchase,0
+76,1091,76.9672703742128,32,3,2,Unknown,Unknown,Credit Card,Transfer,0
+77,1366,88.99793211393424,32,11,2,Mobile,UK,Debit Card,Withdrawal,0
+78,1955,10.0,98,15,1,Tablet,India,Debit Card,Purchase,0
+79,1454,39.39235751205791,11,11,1,Unknown,Unknown,Credit Card,Purchase,0
+80,1427,154.674970697781,10,17,0,Mobile,USA,Bank Transfer,Withdrawal,0
+81,1508,165.79870854005134,15,17,4,Desktop,UK,Crypto,Withdrawal,0
+82,1775,90.03855841774487,17,6,1,Tablet,Germany,Debit Card,Purchase,0
+83,1942,123.06227852223066,40,5,1,Desktop,Germany,Credit Card,Withdrawal,0
+84,1034,112.45000618174144,18,8,2,Desktop,USA,Debit Card,Transfer,0
+85,1205,223.15523233820952,55,2,4,Unknown,Unknown,Crypto,Transfer,1
+86,1080,144.78299645738306,73,16,0,Unknown,UK,Bank Transfer,Purchase,0
+87,1931,94.88329634076933,25,12,1,Unknown,USA,Bank Transfer,Transfer,0
+88,1561,61.77838237598297,104,6,4,Tablet,Unknown,Bank Transfer,Transfer,0
+89,1871,35.74214718969711,59,1,4,Desktop,UK,Credit Card,Purchase,0
+90,1387,108.13854543468892,78,4,0,Tablet,Germany,Credit Card,Withdrawal,0
+91,1001,69.74597018862787,89,17,4,Unknown,UK,Bank Transfer,Purchase,0
+92,1389,43.10985161609303,114,13,4,Desktop,India,Crypto,Transfer,0
+93,1565,74.13708463029894,22,18,4,Tablet,UK,Crypto,Purchase,0
+94,1105,56.7380798554242,116,5,1,Tablet,India,Credit Card,Purchase,0
+95,1771,167.48566540290258,30,3,0,Mobile,UK,Bank Transfer,Transfer,0
+96,1821,135.26559027797802,84,11,4,Tablet,India,Crypto,Transfer,0
+97,1476,99.6810943473353,85,13,4,Unknown,Germany,Crypto,Purchase,0
+98,1702,159.19776555560105,44,4,1,Tablet,Unknown,Crypto,Transfer,0
+99,1401,103.09473230590473,32,14,0,Desktop,India,Credit Card,Transfer,0
+100,1729,65.54863194686945,51,11,2,Tablet,India,Bank Transfer,Transfer,0
+101,1555,160.9249630907863,46,10,1,Mobile,Germany,Debit Card,Transfer,0
+102,1161,121.55640174738635,113,19,0,Desktop,India,Bank Transfer,Transfer,0
+103,1201,58.510153826941746,21,18,4,Desktop,USA,Bank Transfer,Transfer,0
+104,1957,92.38645287665567,99,6,0,Mobile,Germany,Credit Card,Withdrawal,0
+105,1995,64.97526986460971,32,15,0,Unknown,USA,Crypto,Purchase,0
+106,1269,44.688010761426554,94,10,0,Desktop,Germany,Crypto,Transfer,0
+107,1862,137.04710190126565,119,5,2,Unknown,India,Credit Card,Purchase,0
+108,1815,176.37666561880522,39,5,0,Desktop,USA,Credit Card,Withdrawal,0
+109,1270,44.05729704723435,113,10,2,Desktop,India,Credit Card,Transfer,0
+110,1455,122.51876946762283,12,5,4,Unknown,Germany,Credit Card,Purchase,0
+111,1461,73.97429723512693,105,3,2,Desktop,India,Credit Card,Transfer,0
+112,1726,80.51498464941216,47,6,4,Unknown,USA,Debit Card,Transfer,0
+113,1251,76.30424303044524,18,4,4,Mobile,USA,Bank Transfer,Transfer,0
+114,1701,65.44036921280735,21,18,2,Unknown,India,Bank Transfer,Transfer,0
+115,1295,101.94086511779308,13,9,1,Mobile,UK,Bank Transfer,Transfer,0
+116,1724,66.76199534355848,21,17,3,Desktop,Germany,Crypto,Transfer,0
+117,1719,110.81827303119356,8,13,0,Unknown,Germany,Debit Card,Transfer,1
+118,1748,97.99047562203452,46,15,3,Desktop,India,Bank Transfer,Withdrawal,0
+119,1337,90.44207812534361,104,17,0,Unknown,UK,Crypto,Withdrawal,0
+120,1878,63.69745351833608,110,13,0,Mobile,USA,Debit Card,Transfer,0
+121,1052,76.9291467772667,7,16,4,Mobile,Unknown,Debit Card,Transfer,1
+122,1791,130.21564903303025,23,4,0,Unknown,Unknown,Crypto,Withdrawal,0
+123,1921,120.03668750497523,108,5,0,Mobile,India,Debit Card,Withdrawal,0
+124,1216,60.897790208057955,96,5,2,Desktop,UK,Crypto,Withdrawal,0
+125,1763,103.97329221716903,75,9,3,Desktop,UK,Bank Transfer,Transfer,0
+126,1187,130.05548493487157,86,17,2,Tablet,Germany,Crypto,Purchase,0
+127,1379,33.22378875514514,22,13,0,Mobile,USA,Debit Card,Purchase,0
+128,1492,121.7344076951974,107,2,4,Desktop,UK,Bank Transfer,Purchase,0
+129,1040,73.49504964216614,89,13,2,Unknown,Unknown,Bank Transfer,Purchase,0
+130,1156,122.82394674372637,22,19,2,Mobile,USA,Credit Card,Transfer,0
+131,1014,69.46963373829932,92,3,1,Desktop,USA,Credit Card,Purchase,0
+132,1812,27.804715973419235,29,10,0,Mobile,India,Debit Card,Withdrawal,0
+133,1064,34.89830248467349,13,2,4,Unknown,UK,Crypto,Withdrawal,0
+134,1856,101.92339786645528,82,13,2,Desktop,India,Crypto,Purchase,0
+135,1838,110.38890006885927,2,19,2,Tablet,UK,Debit Card,Withdrawal,0
+136,1520,63.827334995823655,29,17,4,Tablet,Germany,Bank Transfer,Transfer,0
+137,1343,125.54369835109496,85,14,0,Mobile,India,Debit Card,Purchase,0
+138,1128,33.5391975092416,79,12,1,Unknown,India,Debit Card,Purchase,0
+139,1647,97.35680805410733,52,12,2,Desktop,Unknown,Bank Transfer,Transfer,0
+140,1471,51.55935200950174,27,11,1,Unknown,India,Crypto,Withdrawal,0
+141,1062,73.92655568791363,50,7,3,Desktop,UK,Debit Card,Transfer,0
+142,1138,101.89594685265656,95,4,0,Mobile,Unknown,Crypto,Transfer,0
+143,1498,65.58346538864191,79,19,3,Desktop,India,Debit Card,Withdrawal,0
+144,1592,84.61777823080699,115,1,3,Unknown,India,Bank Transfer,Transfer,0
+145,1391,140.2517123685776,23,3,3,Unknown,Germany,Bank Transfer,Withdrawal,0
+146,1674,76.92432521907405,88,13,0,Mobile,India,Credit Card,Withdrawal,0
+147,1418,133.42768448260568,44,15,0,Unknown,USA,Bank Transfer,Transfer,0
+148,1288,54.811725813695276,77,2,4,Desktop,Unknown,Credit Card,Withdrawal,0
+149,1378,121.19216711661132,22,11,1,Mobile,USA,Debit Card,Transfer,0
+150,1772,157.66274482631601,43,4,1,Desktop,Unknown,Crypto,Withdrawal,0
+151,1489,10.0,37,19,4,Unknown,Germany,Bank Transfer,Purchase,0
+152,1230,68.12418978118093,61,17,4,Mobile,India,Bank Transfer,Withdrawal,0
+153,1040,123.0828850872216,97,3,3,Desktop,India,Bank Transfer,Withdrawal,0
+154,1027,91.8781845582803,56,18,4,Unknown,India,Debit Card,Transfer,1
+155,1134,114.84583493485235,3,8,2,Unknown,Unknown,Credit Card,Withdrawal,0
+156,1200,75.84059253136718,63,19,1,Tablet,India,Debit Card,Purchase,0
+157,1839,103.463591498916,118,5,4,Unknown,USA,Crypto,Purchase,0
+158,1779,93.77291058431682,19,7,2,Desktop,India,Debit Card,Withdrawal,0
+159,1929,146.71128246639228,23,8,2,Mobile,Germany,Crypto,Withdrawal,0
+160,1032,110.17683373204852,29,5,2,Tablet,USA,Bank Transfer,Purchase,0
+161,1047,113.50410648300809,30,17,2,Unknown,India,Crypto,Transfer,0
+162,1502,83.5249213551013,39,5,3,Unknown,India,Crypto,Purchase,0
+163,1406,80.49575103710026,108,4,2,Unknown,UK,Credit Card,Purchase,0
+164,1573,82.69767248721516,111,19,3,Desktop,Unknown,Crypto,Withdrawal,0
+165,1727,115.77808569513188,25,2,3,Tablet,USA,Crypto,Withdrawal,0
+166,1804,83.16062076718949,101,11,2,Desktop,UK,Debit Card,Purchase,0
+167,1098,111.59099427585652,111,13,1,Tablet,Germany,Bank Transfer,Transfer,0
+168,1683,183.01603194581756,8,15,2,Mobile,Unknown,Debit Card,Purchase,0
+169,1871,134.8449881372677,106,12,2,Desktop,USA,Debit Card,Purchase,0
+170,1725,86.95905871328635,58,11,2,Desktop,India,Bank Transfer,Transfer,0
+171,1986,148.04855688655778,16,7,1,Mobile,USA,Bank Transfer,Purchase,0
+172,1546,83.67698507913795,72,5,0,Tablet,India,Crypto,Purchase,0
+173,1960,18.475018592885846,1,17,0,Unknown,Unknown,Crypto,Withdrawal,0
+174,1738,59.676547563303835,108,9,3,Mobile,India,Credit Card,Transfer,0
+175,1612,25.168323158965777,5,14,3,Unknown,Germany,Debit Card,Withdrawal,1
+176,1942,85.93946063834765,3,12,1,Unknown,India,Bank Transfer,Withdrawal,0
+177,1461,100.73673516758207,65,6,4,Mobile,Germany,Crypto,Transfer,0
+178,1642,167.05749249101132,4,17,0,Tablet,Unknown,Bank Transfer,Transfer,0
+179,1768,113.0770949505665,104,19,3,Unknown,Unknown,Crypto,Purchase,0
+180,1004,91.23597884764543,99,19,0,Mobile,USA,Credit Card,Withdrawal,0
+181,1217,133.17622324733958,96,16,1,Desktop,Germany,Credit Card,Transfer,0
+182,1502,11.554587639684598,64,12,1,Desktop,Germany,Bank Transfer,Withdrawal,0
+183,1766,109.42458232434264,106,12,4,Desktop,UK,Credit Card,Withdrawal,0
+184,1397,130.83460775547866,98,6,4,Mobile,UK,Bank Transfer,Transfer,0
+185,1870,40.856550168806336,107,4,1,Desktop,UK,Crypto,Purchase,0
+186,1794,145.75016172827716,89,6,3,Unknown,India,Debit Card,Withdrawal,0
+187,1392,113.53985629977656,10,11,0,Desktop,UK,Credit Card,Transfer,0
+188,1206,83.38848344396794,21,1,2,Desktop,Germany,Crypto,Purchase,0
+189,1014,125.3112746442514,46,15,4,Unknown,India,Debit Card,Withdrawal,0
+190,1857,190.82771431217583,103,11,2,Desktop,Unknown,Debit Card,Transfer,0
+191,1553,107.27465020233981,91,19,3,Unknown,USA,Debit Card,Withdrawal,0
+192,1891,109.92882345201345,27,18,4,Desktop,UK,Crypto,Transfer,0
+193,1460,81.62556401839024,66,17,2,Unknown,Unknown,Crypto,Transfer,0
+194,1690,66.00622522140833,41,19,3,Desktop,Germany,Bank Transfer,Withdrawal,0
+195,1574,133.21343266176982,112,14,0,Unknown,USA,Debit Card,Withdrawal,0
+196,1863,65.75664696364531,13,18,3,Mobile,Unknown,Debit Card,Transfer,0
+197,1742,102.8626494887757,9,19,4,Unknown,USA,Debit Card,Purchase,1
+198,1240,80.89370212939534,116,15,1,Desktop,UK,Bank Transfer,Withdrawal,0
+199,1563,119.15919302985567,36,15,0,Desktop,Germany,Debit Card,Transfer,0
+200,1095,113.34648421147793,86,4,2,Tablet,USA,Crypto,Transfer,0
+201,1899,141.50159777031598,106,7,4,Unknown,Unknown,Debit Card,Purchase,0
+202,1733,79.59934404581011,90,13,1,Mobile,UK,Credit Card,Purchase,0
+203,1484,89.20500258826515,58,3,3,Unknown,UK,Crypto,Purchase,0
+204,1406,60.849451368707705,54,16,1,Unknown,Unknown,Bank Transfer,Withdrawal,0
+205,1230,82.22826959695553,12,9,4,Mobile,Unknown,Debit Card,Transfer,0
+206,1748,115.09201972179409,81,8,4,Unknown,USA,Credit Card,Transfer,0
+207,1654,130.2795446658141,78,13,1,Mobile,India,Bank Transfer,Transfer,0
+208,1170,63.113387032894984,14,17,3,Mobile,UK,Bank Transfer,Purchase,0
+209,1540,134.7842368042264,34,17,1,Unknown,USA,Crypto,Transfer,0
+210,1035,154.22551435219805,53,17,4,Unknown,Unknown,Bank Transfer,Withdrawal,0
+211,1524,116.53739612894803,20,1,4,Desktop,USA,Bank Transfer,Purchase,0
+212,1159,175.07183250232265,75,8,2,Desktop,Unknown,Bank Transfer,Purchase,0
+213,1838,69.04843203585708,16,19,2,Tablet,Germany,Bank Transfer,Purchase,0
+214,1698,50.21381186754332,115,6,0,Tablet,Unknown,Debit Card,Purchase,0
+215,1242,28.85119004382885,95,3,4,Unknown,Unknown,Debit Card,Withdrawal,0
+216,1085,159.84177245956732,119,5,2,Mobile,Unknown,Debit Card,Transfer,0
+217,1795,126.1746262541623,70,13,1,Tablet,India,Debit Card,Withdrawal,0
+218,1577,97.7766131635818,56,15,3,Unknown,Unknown,Credit Card,Transfer,1
+219,1681,111.19874505279282,83,14,1,Tablet,UK,Debit Card,Withdrawal,0
+220,1556,54.98043810806494,101,16,3,Mobile,UK,Bank Transfer,Purchase,0
+221,1573,197.83007918467305,58,18,2,Unknown,USA,Debit Card,Purchase,0
+222,1952,105.1688472790091,4,11,0,Mobile,India,Debit Card,Withdrawal,0
+223,1645,104.37579178419571,111,3,1,Unknown,USA,Crypto,Withdrawal,0
+224,1795,129.03066495594769,4,10,1,Tablet,UK,Bank Transfer,Transfer,0
+225,1027,119.24036926946853,20,10,1,Desktop,UK,Debit Card,Withdrawal,0
+226,1619,108.95536097116525,10,16,3,Tablet,Germany,Debit Card,Withdrawal,1
+227,1555,68.38102178218753,24,12,2,Tablet,Unknown,Debit Card,Transfer,0
+228,1339,118.85873428543982,118,2,1,Desktop,UK,Credit Card,Transfer,0
+229,1797,175.28097985900135,99,9,1,Desktop,USA,Debit Card,Transfer,0
+230,1957,153.8168018461991,26,3,0,Unknown,USA,Crypto,Withdrawal,0
+231,1330,163.72746506557587,37,15,0,Unknown,Unknown,Bank Transfer,Transfer,0
+232,1639,79.5513729427526,102,3,2,Mobile,Unknown,Bank Transfer,Purchase,0
+233,1505,60.41580718965677,85,19,2,Mobile,Germany,Debit Card,Purchase,0
+234,1347,94.96852319601408,54,18,4,Tablet,India,Debit Card,Purchase,0
+235,1472,102.22899649154779,104,8,0,Desktop,USA,Debit Card,Withdrawal,0
+236,1230,143.76766073883795,103,17,4,Mobile,Unknown,Bank Transfer,Purchase,0
+237,1189,32.30141481140723,21,8,3,Tablet,USA,Bank Transfer,Withdrawal,0
+238,1224,161.18201277842456,74,7,4,Desktop,Unknown,Credit Card,Withdrawal,0
+239,1384,93.67968405684043,38,7,1,Unknown,UK,Crypto,Purchase,0
+240,1376,82.9247572021032,46,3,4,Tablet,USA,Credit Card,Transfer,0
+241,1282,59.5158249895933,4,1,2,Unknown,UK,Crypto,Withdrawal,0
+242,1957,33.80573312536923,60,4,3,Mobile,USA,Credit Card,Purchase,0
+243,1632,132.92682335847658,57,5,1,Mobile,India,Bank Transfer,Withdrawal,0
+244,1627,102.93271868753615,45,1,4,Desktop,Germany,Credit Card,Transfer,0
+245,1972,48.401564010357845,20,15,3,Tablet,UK,Crypto,Transfer,0
+246,1744,48.19684911745536,17,5,3,Unknown,Unknown,Debit Card,Purchase,0
+247,1258,86.56861202839487,119,13,1,Desktop,India,Crypto,Withdrawal,0
+248,1358,166.7608610115757,71,8,4,Mobile,USA,Debit Card,Withdrawal,0
+249,1709,89.6163459454558,4,8,3,Mobile,UK,Bank Transfer,Withdrawal,0
+250,1455,39.874281875275756,93,5,3,Tablet,USA,Crypto,Withdrawal,0
+251,1410,90.17027743656223,14,9,0,Unknown,USA,Credit Card,Purchase,0
+252,1648,89.09105721009318,3,1,3,Tablet,USA,Crypto,Transfer,0
+253,1317,10.0,88,4,0,Unknown,Germany,Debit Card,Purchase,0
+254,1676,97.8282053392875,101,3,4,Unknown,Germany,Bank Transfer,Withdrawal,0
+255,1224,90.76261879165288,80,2,4,Tablet,Unknown,Credit Card,Withdrawal,0
+256,1818,127.84825459253673,58,8,4,Desktop,UK,Crypto,Transfer,0
+257,1233,173.9582437978138,55,9,2,Tablet,India,Debit Card,Withdrawal,0
+258,1683,145.06260118191028,116,2,4,Tablet,India,Credit Card,Purchase,0
+259,1663,89.24445237780678,4,14,3,Mobile,India,Bank Transfer,Purchase,1
+260,1974,55.73896365033319,24,14,1,Mobile,USA,Credit Card,Transfer,0
+261,1826,202.93439212999442,34,4,0,Tablet,Germany,Bank Transfer,Purchase,0
+262,1373,102.36873736057953,30,6,2,Tablet,UK,Credit Card,Purchase,0
+263,1671,100.55717167651785,82,11,4,Mobile,USA,Crypto,Purchase,0
+264,1607,99.03499651559987,19,3,4,Unknown,Germany,Debit Card,Purchase,0
+265,1471,107.92339043071419,31,8,1,Tablet,Germany,Crypto,Withdrawal,0
+266,1232,94.2255835230423,60,3,1,Desktop,UK,Crypto,Purchase,0
+267,1691,77.05351972479055,60,14,2,Desktop,UK,Bank Transfer,Transfer,0
+268,1112,78.12564235038431,19,13,0,Desktop,UK,Bank Transfer,Transfer,0
+269,1829,98.68986919136006,49,13,4,Tablet,USA,Bank Transfer,Purchase,0
+270,1496,78.26300915464941,63,2,2,Unknown,Unknown,Crypto,Transfer,0
+271,1441,71.48616869291342,110,13,3,Unknown,UK,Credit Card,Purchase,0
+272,1563,104.25720910767588,83,19,3,Mobile,Unknown,Credit Card,Transfer,0
+273,1267,89.80091130316579,22,6,2,Tablet,USA,Crypto,Transfer,0
+274,1509,160.15971954330755,24,16,4,Unknown,Unknown,Crypto,Purchase,0
+275,1806,10.0,109,2,2,Tablet,India,Debit Card,Purchase,0
+276,1385,143.66027407689847,76,8,4,Mobile,Unknown,Bank Transfer,Withdrawal,0
+277,1386,149.84340769990516,30,17,1,Mobile,UK,Bank Transfer,Purchase,0
+278,1112,17.06439070367402,58,2,2,Mobile,USA,Crypto,Purchase,0
+279,1612,86.29249623678605,102,10,4,Desktop,UK,Crypto,Withdrawal,0
+280,1624,85.14236536016834,117,16,2,Tablet,India,Credit Card,Purchase,0
+281,1951,43.69953221128715,31,6,2,Mobile,UK,Crypto,Purchase,0
+282,1080,68.88733249636499,100,2,4,Tablet,UK,Credit Card,Withdrawal,0
+283,1698,55.57696618136685,64,2,4,Desktop,UK,Crypto,Purchase,0
+284,1112,170.09081773694493,19,13,0,Desktop,Germany,Debit Card,Purchase,0
+285,1001,137.42713572589844,48,15,2,Mobile,India,Debit Card,Withdrawal,0
+286,1641,150.86220379976635,45,2,3,Mobile,UK,Credit Card,Withdrawal,0
+287,1219,128.8668825617294,100,7,2,Unknown,UK,Bank Transfer,Transfer,0
+288,1565,54.83792915131083,94,3,2,Tablet,UK,Debit Card,Purchase,0
+289,1854,79.01918934880905,55,8,4,Mobile,USA,Credit Card,Transfer,0
+290,1996,119.57498244911672,113,14,2,Unknown,Germany,Crypto,Transfer,0
+291,1735,51.11488764432218,55,7,2,Tablet,USA,Crypto,Withdrawal,0
+292,1224,128.51993720689552,97,7,3,Mobile,Germany,Credit Card,Purchase,0
+293,1384,90.3869840736746,18,1,4,Unknown,UK,Bank Transfer,Purchase,0
+294,1402,85.0071676980161,63,17,2,Unknown,India,Credit Card,Withdrawal,0
+295,1637,128.43839872813965,116,9,1,Tablet,Unknown,Credit Card,Transfer,0
+296,1129,117.7705324594416,113,13,0,Unknown,Unknown,Debit Card,Withdrawal,0
+297,1052,85.5613533672368,92,19,3,Tablet,UK,Credit Card,Purchase,0
+298,1683,146.37319213456993,47,19,2,Tablet,USA,Credit Card,Withdrawal,0
+299,1729,56.757466896004104,75,17,1,Tablet,India,Crypto,Purchase,0
+300,1671,124.63742427777055,57,10,2,Desktop,Germany,Debit Card,Transfer,0
+301,1709,123.72405031873535,118,10,2,Unknown,UK,Crypto,Purchase,0
+302,1415,87.61814242744039,45,4,4,Tablet,India,Crypto,Transfer,0
+303,1246,113.04532088968472,33,8,4,Mobile,India,Bank Transfer,Transfer,0
+304,1835,49.95545694458788,17,18,4,Desktop,Germany,Bank Transfer,Purchase,0
+305,1438,136.96108076827605,70,14,1,Desktop,India,Debit Card,Purchase,0
+306,1202,92.60391454228044,4,18,2,Unknown,USA,Debit Card,Transfer,1
+307,1183,79.09107917923842,20,14,0,Tablet,USA,Bank Transfer,Withdrawal,0
+308,1122,141.96036903347556,112,15,3,Unknown,USA,Bank Transfer,Purchase,0
+309,1400,71.82625237828964,47,4,4,Desktop,India,Bank Transfer,Transfer,0
+310,1766,43.661548145457616,91,13,4,Tablet,USA,Bank Transfer,Transfer,0
+311,1293,37.73483305904385,15,8,2,Mobile,Germany,Bank Transfer,Withdrawal,0
+312,1279,124.24039805382559,70,18,2,Tablet,India,Crypto,Purchase,0
+313,1836,48.78282590014868,47,12,1,Desktop,Unknown,Debit Card,Transfer,0
+314,1883,170.19176727937457,78,14,1,Mobile,India,Crypto,Withdrawal,0
+315,1609,16.722823684651118,75,2,4,Tablet,Germany,Crypto,Transfer,0
+316,1197,167.85825473160153,103,18,2,Mobile,Unknown,Credit Card,Purchase,0
+317,1981,108.44069868810473,9,2,0,Mobile,India,Crypto,Withdrawal,0
+318,1906,96.1314755251843,90,11,3,Desktop,USA,Bank Transfer,Transfer,0
+319,1510,78.20323652764202,16,9,2,Mobile,UK,Bank Transfer,Withdrawal,0
+320,1751,115.96544457408284,69,12,2,Unknown,UK,Credit Card,Purchase,0
+321,1143,98.49461190300606,116,17,1,Desktop,USA,Credit Card,Withdrawal,0
+322,1608,144.13207528066084,61,15,3,Unknown,UK,Credit Card,Purchase,0
+323,1200,104.56910594648159,10,17,4,Mobile,UK,Credit Card,Transfer,1
+324,1123,106.01207045847511,50,18,2,Unknown,USA,Credit Card,Purchase,0
+325,1186,85.45551151144576,3,6,4,Tablet,USA,Crypto,Transfer,0
+326,1325,97.72217505115731,77,17,2,Mobile,India,Credit Card,Transfer,0
+327,1463,112.31207075568237,107,18,4,Tablet,India,Crypto,Purchase,0
+328,1348,31.593264293734975,113,8,3,Unknown,USA,Debit Card,Transfer,0
+329,1770,46.07258311577148,94,9,1,Tablet,Germany,Credit Card,Withdrawal,0
+330,1659,129.7305637609086,118,6,3,Mobile,UK,Credit Card,Transfer,0
+331,1763,106.83461752511768,109,5,0,Tablet,India,Crypto,Purchase,0
+332,1954,92.64066654589283,70,12,1,Unknown,UK,Debit Card,Withdrawal,0
+333,1931,100.73735732261572,81,11,3,Unknown,Unknown,Crypto,Withdrawal,0
+334,1402,113.90326821446683,109,1,0,Unknown,USA,Crypto,Transfer,0
+335,1345,78.40961278762555,51,11,2,Mobile,Germany,Credit Card,Transfer,0
+336,1962,68.86781098390749,117,19,2,Unknown,Unknown,Bank Transfer,Purchase,0
+337,1510,107.83381020390726,19,9,4,Mobile,Unknown,Bank Transfer,Withdrawal,0
+338,1146,60.86508889539872,42,2,1,Tablet,Unknown,Crypto,Purchase,0
+339,1147,116.33011022857887,35,12,2,Unknown,USA,Credit Card,Transfer,0
+340,1863,31.89665583048638,46,4,1,Tablet,India,Debit Card,Withdrawal,0
+341,1710,141.16622549302576,26,4,2,Desktop,USA,Bank Transfer,Purchase,0
+342,1819,118.90389929652173,115,18,4,Tablet,India,Debit Card,Purchase,0
+343,1488,110.24118937255503,69,15,3,Desktop,Unknown,Bank Transfer,Purchase,0
+344,1928,139.30763935782056,93,19,4,Tablet,Unknown,Credit Card,Purchase,0
+345,1935,166.61897777850305,64,13,0,Mobile,Germany,Crypto,Purchase,0
+346,1639,140.5748026007252,37,19,2,Tablet,India,Debit Card,Withdrawal,0
+347,1550,26.365030746734192,84,17,0,Mobile,Unknown,Debit Card,Purchase,0
+348,1337,48.81692133057194,49,6,0,Mobile,UK,Crypto,Withdrawal,0
+349,1871,75.00725689217285,21,16,1,Unknown,Germany,Debit Card,Purchase,0
+350,1640,101.04364200843335,74,12,2,Mobile,USA,Bank Transfer,Transfer,0
+351,1778,120.70636081876492,64,19,0,Desktop,Germany,Crypto,Transfer,0
+352,1987,70.97024747386138,5,5,3,Unknown,UK,Bank Transfer,Purchase,0
+353,1952,107.47067057908313,100,17,0,Unknown,India,Bank Transfer,Transfer,0
+354,1472,69.7846827058671,70,1,3,Tablet,USA,Credit Card,Withdrawal,0
+355,1945,75.53928788032206,90,10,1,Mobile,USA,Bank Transfer,Purchase,0
+356,1150,43.73355612607111,4,15,0,Mobile,India,Credit Card,Withdrawal,0
+357,1414,63.07067015556383,103,11,4,Desktop,Germany,Debit Card,Purchase,0
+358,1989,45.932615775346655,39,13,1,Tablet,Unknown,Debit Card,Transfer,0
+359,1297,60.96506988090669,114,5,3,Tablet,Germany,Credit Card,Withdrawal,0
+360,1610,142.14567186431358,35,1,1,Unknown,UK,Bank Transfer,Transfer,0
+361,1262,62.02404444672228,1,12,0,Unknown,Unknown,Crypto,Transfer,1
+362,1763,205.29528259349564,24,11,2,Unknown,Germany,Crypto,Purchase,1
+363,1143,119.73271603523557,57,17,2,Desktop,India,Credit Card,Withdrawal,0
+364,1345,107.39344494779496,100,4,3,Desktop,UK,Debit Card,Transfer,0
+365,1623,65.66568879275147,70,15,3,Unknown,UK,Debit Card,Purchase,0
+366,1571,128.01239517635966,41,9,2,Tablet,UK,Crypto,Purchase,0
+367,1880,76.97448695048905,54,19,3,Desktop,Unknown,Credit Card,Purchase,0
+368,1001,104.88039258581446,46,19,1,Tablet,USA,Crypto,Transfer,0
+369,1896,202.4033815307518,60,12,4,Tablet,Unknown,Bank Transfer,Purchase,1
+370,1303,96.157604011014,108,5,4,Mobile,Germany,Bank Transfer,Withdrawal,0
+371,1253,145.97093305142704,60,10,1,Unknown,USA,Credit Card,Withdrawal,0
+372,1651,71.8729429949645,57,17,4,Mobile,Germany,Credit Card,Transfer,0
+373,1452,98.60046038012153,31,5,0,Unknown,USA,Bank Transfer,Withdrawal,0
+374,1036,170.8320254254204,84,16,1,Unknown,Unknown,Debit Card,Purchase,0
+375,1159,74.9213176884893,24,7,3,Tablet,UK,Credit Card,Transfer,0
+376,1008,172.49794231987715,89,9,1,Unknown,India,Bank Transfer,Purchase,0
+377,1232,128.310077418219,36,3,2,Tablet,UK,Bank Transfer,Transfer,0
+378,1098,77.50132896422929,85,15,3,Tablet,Unknown,Debit Card,Transfer,0
+379,1658,125.29630956222084,30,16,2,Unknown,USA,Debit Card,Purchase,0
+380,1815,138.9021779850692,24,18,3,Tablet,UK,Debit Card,Withdrawal,0
+381,1207,124.87239848868785,108,14,4,Tablet,Unknown,Debit Card,Withdrawal,0
+382,1130,37.191011204381745,106,3,1,Tablet,Germany,Crypto,Transfer,0
+383,1403,70.91451296700527,30,12,0,Desktop,India,Debit Card,Purchase,0
+384,1151,90.0992545779398,86,9,3,Tablet,UK,Crypto,Purchase,0
+385,1053,97.02266283599815,92,7,3,Desktop,USA,Credit Card,Transfer,0
+386,1119,124.82688390202712,7,9,2,Desktop,Germany,Bank Transfer,Withdrawal,0
+387,1672,107.10804003733016,35,13,4,Tablet,Unknown,Crypto,Purchase,0
+388,1919,46.58622565159595,55,18,2,Tablet,India,Credit Card,Withdrawal,0
+389,1627,115.20791404023853,92,5,2,Desktop,USA,Credit Card,Withdrawal,0
+390,1586,124.42342981135292,14,13,4,Desktop,Unknown,Crypto,Transfer,0
+391,1624,122.39161791724159,10,4,0,Tablet,Unknown,Credit Card,Transfer,0
+392,1967,143.23122902218486,80,2,2,Tablet,UK,Credit Card,Withdrawal,0
+393,1419,133.35688618195616,16,16,2,Unknown,UK,Crypto,Purchase,0
+394,1421,118.36720316913747,54,9,3,Desktop,USA,Credit Card,Purchase,0
+395,1103,97.19337154165412,95,9,4,Desktop,Unknown,Debit Card,Transfer,0
+396,1851,33.56156265936035,106,6,1,Unknown,UK,Debit Card,Withdrawal,0
+397,1253,117.18472876530343,89,11,0,Desktop,India,Bank Transfer,Purchase,0
+398,1226,108.30750748652444,77,1,0,Mobile,India,Credit Card,Purchase,0
+399,1111,110.86315348781494,70,4,4,Desktop,Unknown,Bank Transfer,Transfer,0
+400,1509,48.930056967187625,44,13,3,Unknown,UK,Debit Card,Withdrawal,0
+401,1472,56.757738383669505,73,13,3,Mobile,USA,Debit Card,Purchase,0
+402,1098,142.12611413331615,45,13,4,Tablet,USA,Debit Card,Transfer,0
+403,1152,98.4177938457338,100,2,3,Unknown,USA,Credit Card,Purchase,0
+404,1860,127.26002789490498,56,9,0,Unknown,India,Credit Card,Purchase,0
+405,1913,101.13273504521845,107,8,0,Tablet,UK,Debit Card,Purchase,0
+406,1895,101.1902455798298,84,7,1,Unknown,UK,Bank Transfer,Transfer,0
+407,1877,137.5313522390399,82,4,4,Desktop,India,Bank Transfer,Withdrawal,0
+408,1337,79.35821087130505,107,18,2,Tablet,USA,Crypto,Transfer,0
+409,1705,103.84483107763934,57,3,2,Unknown,USA,Debit Card,Withdrawal,0
+410,1821,81.5089884517983,21,6,1,Tablet,Unknown,Bank Transfer,Purchase,0
+411,1162,82.62015090270738,68,12,1,Tablet,Germany,Debit Card,Withdrawal,0
+412,1719,87.63311506125443,50,12,3,Tablet,UK,Bank Transfer,Purchase,0
+413,1956,108.88535086534851,33,8,1,Mobile,UK,Crypto,Purchase,0
+414,1680,80.8500551334609,91,1,1,Unknown,UK,Crypto,Transfer,0
+415,1995,150.23024502294084,7,4,2,Mobile,Germany,Debit Card,Purchase,0
+416,1160,64.21570791121985,70,11,3,Unknown,Unknown,Bank Transfer,Transfer,1
+417,1579,92.52513423354564,15,3,1,Desktop,Germany,Credit Card,Withdrawal,0
+418,1800,82.410757669033,82,13,1,Desktop,USA,Crypto,Withdrawal,0
+419,1397,157.8791153741493,32,17,3,Desktop,USA,Debit Card,Purchase,0
+420,1276,107.86219106046299,75,10,4,Unknown,UK,Debit Card,Transfer,0
+421,1815,141.2737815787454,20,12,3,Tablet,India,Bank Transfer,Purchase,0
+422,1915,40.577585078521125,88,15,2,Tablet,UK,Debit Card,Transfer,0
+423,1503,110.68201063477035,15,10,4,Mobile,India,Crypto,Transfer,0
+424,1895,135.58523182493747,48,14,0,Mobile,Germany,Debit Card,Transfer,0
+425,1391,103.29135957101697,71,13,3,Desktop,USA,Debit Card,Withdrawal,0
+426,1134,142.61921500261406,21,5,2,Mobile,India,Credit Card,Transfer,0
+427,1194,79.30846199598511,42,6,4,Unknown,Germany,Credit Card,Withdrawal,0
+428,1400,156.3738976074232,26,2,3,Unknown,USA,Crypto,Transfer,0
+429,1639,191.95592494477,108,17,1,Mobile,India,Bank Transfer,Withdrawal,0
+430,1032,85.48645758241364,14,4,3,Mobile,UK,Credit Card,Withdrawal,0
+431,1687,82.17989914396912,57,14,0,Mobile,UK,Bank Transfer,Withdrawal,0
+432,1459,158.13537908470803,37,10,3,Mobile,UK,Crypto,Purchase,0
+433,1954,163.1828858292285,58,3,4,Desktop,Germany,Credit Card,Transfer,0
+434,1882,79.08559891386926,21,3,4,Desktop,UK,Bank Transfer,Purchase,0
+435,1469,83.19252731616571,82,15,3,Mobile,Unknown,Credit Card,Transfer,0
+436,1374,88.72861564557971,69,6,4,Unknown,USA,Crypto,Transfer,0
+437,1021,46.22197955862892,3,17,1,Desktop,Germany,Crypto,Purchase,0
+438,1749,63.25392214063207,87,12,3,Unknown,UK,Credit Card,Withdrawal,0
+439,1669,59.83436932991729,90,11,1,Tablet,USA,Bank Transfer,Transfer,0
+440,1037,69.28809739583485,37,4,1,Unknown,India,Debit Card,Withdrawal,0
+441,1229,98.61260450452875,88,6,2,Mobile,UK,Debit Card,Purchase,0
+442,1364,109.36858930146083,49,1,3,Tablet,USA,Credit Card,Withdrawal,0
+443,1562,162.02001971256308,19,16,4,Desktop,Unknown,Bank Transfer,Transfer,0
+444,1437,60.06583837044836,115,15,1,Desktop,India,Debit Card,Transfer,0
+445,1775,139.37289593906334,89,17,2,Tablet,Unknown,Crypto,Transfer,0
+446,1282,91.44044623097965,85,8,3,Unknown,USA,Bank Transfer,Purchase,0
+447,1026,98.02145161390268,12,12,3,Desktop,Unknown,Debit Card,Transfer,0
+448,1225,126.99277968666415,61,10,0,Mobile,USA,Bank Transfer,Purchase,0
+449,1276,55.09111913750806,41,15,0,Tablet,USA,Credit Card,Withdrawal,0
+450,1797,115.29638984736202,33,9,1,Mobile,Unknown,Bank Transfer,Transfer,0
+451,1608,106.65808832852224,50,2,0,Tablet,USA,Debit Card,Transfer,0
+452,1283,119.69805056032597,117,5,1,Desktop,UK,Credit Card,Transfer,0
+453,1878,111.56674575631273,68,6,4,Unknown,USA,Bank Transfer,Withdrawal,0
+454,1959,198.21200559643577,106,7,1,Tablet,Germany,Crypto,Transfer,0
+455,1480,74.49040062994736,71,1,0,Tablet,USA,Debit Card,Purchase,0
+456,1452,78.76012179992729,86,7,4,Mobile,Germany,Credit Card,Withdrawal,0
+457,1828,75.07437894300942,119,12,0,Desktop,USA,Bank Transfer,Withdrawal,0
+458,1815,77.78091523358981,33,16,1,Mobile,USA,Crypto,Withdrawal,0
+459,1658,74.50451490773929,81,16,2,Desktop,Unknown,Debit Card,Withdrawal,0
+460,1515,147.56066124430208,24,11,3,Mobile,UK,Crypto,Withdrawal,0
+461,1546,156.8201699195942,61,4,0,Tablet,UK,Bank Transfer,Purchase,0
+462,1191,77.17014825002096,61,13,1,Mobile,India,Bank Transfer,Withdrawal,0
+463,1048,66.70577707583085,98,7,4,Unknown,Unknown,Credit Card,Transfer,0
+464,1511,118.85662225545616,28,4,0,Desktop,Unknown,Crypto,Withdrawal,0
+465,1016,77.91107822876114,58,15,0,Desktop,UK,Credit Card,Withdrawal,0
+466,1171,125.31727271022044,43,19,3,Tablet,Unknown,Debit Card,Withdrawal,0
+467,1219,108.116920834052,41,9,1,Desktop,UK,Credit Card,Withdrawal,0
+468,1157,39.37023540011072,39,11,2,Unknown,Unknown,Debit Card,Withdrawal,0
+469,1476,161.90020805320245,86,8,4,Mobile,USA,Bank Transfer,Purchase,0
+470,1045,171.8351069238209,49,1,1,Tablet,UK,Bank Transfer,Purchase,0
+471,1372,75.48845238062455,17,8,4,Unknown,UK,Crypto,Withdrawal,0
+472,1517,84.49193760256064,98,13,0,Desktop,Germany,Debit Card,Purchase,0
+473,1098,111.4346156289962,70,4,3,Desktop,Unknown,Bank Transfer,Transfer,0
+474,1891,113.378271599481,110,8,3,Unknown,Unknown,Crypto,Withdrawal,0
+475,1744,126.34177090691321,70,3,2,Mobile,UK,Crypto,Transfer,0
+476,1036,180.40818155065398,98,9,3,Mobile,USA,Credit Card,Transfer,0
+477,1279,92.92211090023802,65,2,0,Tablet,USA,Crypto,Withdrawal,0
+478,1348,68.06811021846185,74,2,2,Desktop,USA,Bank Transfer,Transfer,0
+479,1496,44.82723087941891,85,13,1,Unknown,Unknown,Credit Card,Transfer,0
+480,1301,70.76279840232324,5,15,3,Mobile,Germany,Debit Card,Transfer,1
+481,1180,98.67492108504811,2,12,2,Tablet,UK,Debit Card,Withdrawal,0
+482,1606,171.78231454071152,22,4,0,Desktop,India,Bank Transfer,Withdrawal,0
+483,1098,79.29554803855314,112,8,4,Desktop,Germany,Bank Transfer,Transfer,0
+484,1699,108.95151806555594,57,9,4,Tablet,India,Credit Card,Withdrawal,0
+485,1992,99.34308415708992,66,5,0,Tablet,Germany,Credit Card,Withdrawal,0
+486,1115,147.53573093792335,74,18,0,Mobile,USA,Bank Transfer,Transfer,0
+487,1190,201.07729703494488,98,11,4,Unknown,Unknown,Bank Transfer,Withdrawal,1
+488,1252,78.76524908318717,16,15,2,Desktop,India,Debit Card,Purchase,0
+489,1980,80.42242229927112,112,9,4,Unknown,Germany,Debit Card,Withdrawal,0
+490,1927,141.76643508276288,51,17,0,Desktop,Unknown,Debit Card,Purchase,0
+491,1982,127.27565958505245,39,12,3,Desktop,India,Bank Transfer,Transfer,0
+492,1160,173.86829302944136,86,7,1,Unknown,UK,Crypto,Withdrawal,0
+493,1255,123.35712741303855,76,10,3,Tablet,Germany,Bank Transfer,Transfer,0
+494,1322,85.62831636851762,88,10,3,Mobile,UK,Bank Transfer,Transfer,0
+495,1127,123.62619322769237,111,13,0,Desktop,USA,Debit Card,Transfer,0
+496,1017,144.3481432233163,40,19,4,Tablet,UK,Bank Transfer,Transfer,0
+497,1792,132.81928724789458,38,11,2,Desktop,UK,Credit Card,Transfer,0
+498,1734,120.2909612442919,60,13,3,Mobile,Germany,Bank Transfer,Withdrawal,0
+499,1565,142.66698758356614,59,8,4,Desktop,USA,Bank Transfer,Purchase,0
+500,1569,146.7718236178269,10,8,2,Mobile,UK,Bank Transfer,Withdrawal,0
+501,1322,155.2863596415011,99,4,3,Mobile,Unknown,Bank Transfer,Withdrawal,0
+502,1871,125.94839550358572,64,15,2,Desktop,India,Crypto,Withdrawal,0
+503,1685,93.31527678732583,115,11,4,Desktop,UK,Bank Transfer,Withdrawal,0
+504,1791,105.86854745733291,63,11,1,Mobile,USA,Credit Card,Purchase,0
+505,1625,148.26035866033428,49,1,4,Tablet,UK,Credit Card,Withdrawal,0
+506,1287,67.32257316051056,64,17,0,Unknown,India,Bank Transfer,Transfer,0
+507,1942,114.74693235491605,32,15,2,Mobile,USA,Debit Card,Withdrawal,0
+508,1853,84.26644750690558,7,6,1,Desktop,Germany,Crypto,Withdrawal,0
+509,1662,101.1497929173927,21,15,2,Desktop,USA,Bank Transfer,Purchase,0
+510,1961,151.13807450429195,20,9,2,Tablet,Germany,Bank Transfer,Purchase,0
+511,1638,107.64396272079614,26,14,3,Unknown,USA,Bank Transfer,Transfer,1
+512,1154,101.85746192624595,68,18,0,Mobile,India,Debit Card,Withdrawal,0
+513,1489,45.60575436080323,110,17,2,Mobile,India,Debit Card,Withdrawal,0
+514,1385,129.85014264108884,116,18,4,Unknown,USA,Debit Card,Withdrawal,0
+515,1985,125.81936724564301,86,5,4,Mobile,UK,Crypto,Transfer,0
+516,1784,186.5301889322184,15,9,3,Unknown,India,Credit Card,Purchase,0
+517,1103,87.68887060187997,104,11,0,Desktop,Germany,Crypto,Transfer,0
+518,1928,108.76601310655755,85,1,0,Unknown,Germany,Debit Card,Withdrawal,0
+519,1392,109.9753473484302,79,18,4,Mobile,Unknown,Credit Card,Purchase,0
+520,1810,163.098131190539,86,6,1,Unknown,Germany,Credit Card,Purchase,0
+521,1245,96.18817870452192,116,2,3,Tablet,Unknown,Debit Card,Transfer,0
+522,1175,111.16086103081356,92,15,3,Desktop,USA,Debit Card,Purchase,0
+523,1038,124.31586038866158,14,14,4,Desktop,USA,Crypto,Purchase,0
+524,1476,107.46436492625432,27,5,4,Unknown,USA,Debit Card,Withdrawal,0
+525,1681,82.14265541797887,105,6,1,Mobile,UK,Credit Card,Withdrawal,0
+526,1758,107.7635997159323,40,6,1,Tablet,UK,Bank Transfer,Purchase,0
+527,1537,142.94526999439088,58,18,0,Desktop,Unknown,Debit Card,Purchase,0
+528,1866,58.93938802355759,28,14,3,Desktop,Germany,Debit Card,Transfer,0
+529,1817,105.31878696587503,26,10,3,Mobile,Germany,Crypto,Transfer,0
+530,1920,71.99516740243307,113,14,4,Mobile,USA,Crypto,Purchase,0
+531,1407,147.8018651569937,63,13,0,Tablet,India,Debit Card,Withdrawal,0
+532,1524,39.07252380864901,66,3,3,Unknown,UK,Credit Card,Purchase,0
+533,1827,77.64312610913646,25,6,0,Mobile,UK,Credit Card,Purchase,0
+534,1505,115.08847500258084,3,8,0,Unknown,USA,Bank Transfer,Withdrawal,0
+535,1902,162.62096116937363,72,12,4,Tablet,UK,Debit Card,Withdrawal,0
+536,1824,97.36998955708049,44,13,0,Unknown,USA,Crypto,Transfer,0
+537,1035,77.79201893227207,97,11,1,Desktop,Unknown,Credit Card,Transfer,0
+538,1684,175.2462827776236,42,12,1,Unknown,Germany,Bank Transfer,Transfer,0
+539,1019,42.07944398335024,116,1,2,Tablet,India,Debit Card,Transfer,0
+540,1320,12.04776173519673,99,17,4,Tablet,Germany,Credit Card,Withdrawal,0
+541,1775,117.60057800213329,6,16,2,Tablet,Germany,Debit Card,Purchase,0
+542,1511,79.91783102589555,39,11,1,Unknown,Unknown,Debit Card,Transfer,0
+543,1399,59.150687314771474,52,13,2,Desktop,UK,Credit Card,Transfer,0
+544,1653,128.33425789197412,23,18,4,Mobile,India,Credit Card,Withdrawal,0
+545,1971,109.75202855084795,89,11,4,Desktop,UK,Credit Card,Withdrawal,0
+546,1882,77.43685477053086,50,12,0,Unknown,Germany,Debit Card,Purchase,0
+547,1470,48.78782405316422,43,6,3,Unknown,USA,Debit Card,Purchase,0
+548,1142,134.89829313120578,19,9,0,Mobile,Germany,Bank Transfer,Withdrawal,0
+549,1091,126.00804711834644,69,16,4,Unknown,UK,Crypto,Transfer,1
+550,1353,96.03296544882468,51,4,1,Tablet,Germany,Debit Card,Transfer,0
+551,1833,173.86547984190662,11,3,1,Tablet,USA,Crypto,Transfer,0
+552,1799,57.1966093469539,12,16,0,Tablet,Unknown,Credit Card,Purchase,0
+553,1726,38.97899316301044,74,12,4,Tablet,UK,Debit Card,Transfer,0
+554,1958,72.32367720475023,8,11,1,Tablet,Germany,Bank Transfer,Transfer,0
+555,1853,98.17655934578009,24,5,4,Unknown,UK,Bank Transfer,Withdrawal,0
+556,1050,109.73357797290767,92,18,1,Mobile,Unknown,Crypto,Transfer,0
+557,1664,90.35055768574681,41,19,4,Mobile,Germany,Credit Card,Withdrawal,0
+558,1697,114.08221586057186,36,6,2,Tablet,Germany,Crypto,Transfer,0
+559,1574,49.93842303238224,101,18,4,Unknown,UK,Credit Card,Purchase,0
+560,1189,157.75058416293038,85,6,4,Desktop,UK,Bank Transfer,Transfer,0
+561,1124,96.71395286429726,72,4,0,Desktop,USA,Crypto,Transfer,0
+562,1149,144.6918332635251,55,12,2,Unknown,Unknown,Bank Transfer,Withdrawal,0
+563,1313,113.70901385510817,9,19,3,Tablet,USA,Bank Transfer,Withdrawal,1
+564,1569,118.27012876615136,47,2,0,Mobile,Germany,Credit Card,Withdrawal,0
+565,1341,122.79069120928816,15,17,3,Unknown,UK,Crypto,Transfer,1
+566,1304,117.90834240069259,48,11,1,Desktop,Germany,Crypto,Transfer,0
+567,1691,125.70891039470176,110,11,3,Desktop,Germany,Bank Transfer,Purchase,0
+568,1681,153.16610120529725,104,16,4,Desktop,India,Bank Transfer,Transfer,0
+569,1837,107.86084678805881,82,2,3,Tablet,India,Credit Card,Purchase,0
+570,1782,128.36015030354048,42,2,0,Desktop,Germany,Debit Card,Withdrawal,0
+571,1053,96.41057222851093,60,8,0,Unknown,UK,Debit Card,Withdrawal,0
+572,1443,157.60468861797892,84,13,3,Unknown,Germany,Bank Transfer,Withdrawal,0
+573,1612,72.9443079176292,70,10,0,Desktop,India,Debit Card,Purchase,0
+574,1992,172.03761731643263,12,8,0,Unknown,UK,Debit Card,Transfer,0
+575,1263,98.39368197422627,2,4,3,Desktop,Germany,Debit Card,Withdrawal,0
+576,1052,42.768995915278076,7,15,2,Desktop,Unknown,Debit Card,Transfer,0
+577,1571,105.12417659643157,80,1,2,Mobile,Unknown,Bank Transfer,Transfer,0
+578,1619,72.75793370100476,3,11,1,Tablet,Germany,Debit Card,Withdrawal,0
+579,1004,133.62574195954898,109,7,0,Tablet,UK,Debit Card,Purchase,0
+580,1102,73.89504082790437,3,17,3,Mobile,Germany,Credit Card,Transfer,1
+581,1195,82.15266267140882,27,18,0,Mobile,Germany,Bank Transfer,Withdrawal,0
+582,1773,24.418370762178768,114,12,4,Tablet,India,Crypto,Transfer,0
+583,1876,81.90774723003693,107,9,0,Desktop,Unknown,Crypto,Transfer,0
+584,1991,10.0,40,5,0,Desktop,India,Credit Card,Transfer,0
+585,1883,36.64388706057107,102,10,2,Tablet,India,Credit Card,Transfer,0
+586,1349,130.4165862457719,33,4,3,Desktop,Germany,Bank Transfer,Transfer,0
+587,1046,131.4320063460333,92,5,0,Mobile,India,Crypto,Purchase,0
+588,1866,117.01830247139858,1,10,2,Desktop,Unknown,Debit Card,Purchase,0
+589,1822,61.32095427483148,119,11,1,Desktop,India,Credit Card,Withdrawal,0
+590,1935,98.0915457543208,8,10,2,Unknown,Unknown,Crypto,Purchase,0
+591,1819,99.85589843637726,101,8,2,Unknown,India,Bank Transfer,Purchase,0
+592,1655,53.66541243229829,32,2,2,Unknown,Unknown,Debit Card,Purchase,0
+593,1268,160.135932070686,48,8,0,Desktop,India,Bank Transfer,Transfer,0
+594,1369,135.09449162302684,107,16,0,Tablet,India,Credit Card,Transfer,0
+595,1635,91.16143304681344,101,5,1,Mobile,UK,Crypto,Withdrawal,0
+596,1105,101.07543355978123,4,3,4,Desktop,Unknown,Crypto,Withdrawal,0
+597,1669,108.3353123179021,94,12,4,Tablet,Unknown,Crypto,Withdrawal,0
+598,1658,18.330605263028374,70,13,4,Desktop,Unknown,Crypto,Transfer,0
+599,1656,90.11290469917613,110,13,1,Mobile,USA,Debit Card,Purchase,0
+600,1119,72.72063008008806,118,10,4,Desktop,India,Debit Card,Purchase,0
+601,1830,59.935199604203376,19,4,4,Mobile,Unknown,Bank Transfer,Transfer,0
+602,1786,88.75598828456181,32,9,2,Desktop,USA,Debit Card,Withdrawal,0
+603,1603,171.9074610739809,9,2,0,Mobile,UK,Credit Card,Withdrawal,0
+604,1057,125.6337144506804,12,19,0,Desktop,Unknown,Credit Card,Withdrawal,0
+605,1950,77.15284040868812,11,1,2,Mobile,Unknown,Crypto,Transfer,0
+606,1345,122.90331125424635,46,7,2,Unknown,USA,Credit Card,Withdrawal,0
+607,1740,155.97421746344008,119,17,2,Desktop,India,Bank Transfer,Withdrawal,0
+608,1473,136.98534731651074,16,3,0,Desktop,UK,Debit Card,Transfer,0
+609,1116,102.38521479680696,1,3,4,Tablet,Unknown,Debit Card,Purchase,0
+610,1829,74.12252889177705,63,3,2,Tablet,India,Debit Card,Transfer,0
+611,1790,127.9289325445436,109,17,1,Mobile,UK,Credit Card,Transfer,0
+612,1126,115.73941541686999,119,7,2,Desktop,Germany,Debit Card,Transfer,0
+613,1392,135.8077288011093,117,14,3,Mobile,Germany,Crypto,Transfer,0
+614,1907,125.40687206727878,21,17,2,Unknown,UK,Crypto,Purchase,0
+615,1640,141.9821086127734,30,18,0,Tablet,USA,Crypto,Withdrawal,0
+616,1057,78.59059153757728,13,13,2,Mobile,UK,Credit Card,Transfer,0
+617,1633,152.69576262537302,34,18,3,Mobile,UK,Debit Card,Purchase,0
+618,1512,107.90398418769598,4,4,1,Tablet,USA,Credit Card,Withdrawal,0
+619,1750,183.0104349050106,28,1,4,Desktop,USA,Debit Card,Withdrawal,0
+620,1801,72.43248727641728,102,18,2,Mobile,India,Bank Transfer,Withdrawal,0
+621,1095,169.43855212660998,95,1,3,Tablet,India,Bank Transfer,Transfer,0
+622,1637,107.91643133850592,59,13,3,Desktop,USA,Credit Card,Transfer,0
+623,1117,73.94327985542206,119,10,1,Unknown,Germany,Crypto,Withdrawal,0
+624,1559,80.64456663782714,27,11,0,Tablet,Germany,Credit Card,Withdrawal,0
+625,1600,87.1861076722272,69,9,2,Mobile,UK,Crypto,Withdrawal,0
+626,1487,116.96663785607666,25,9,3,Unknown,Unknown,Debit Card,Withdrawal,0
+627,1236,120.91341952141998,3,5,1,Desktop,UK,Crypto,Withdrawal,0
+628,1884,77.05199984245684,97,1,4,Desktop,UK,Crypto,Withdrawal,0
+629,1896,99.02581630956068,68,17,3,Tablet,Unknown,Debit Card,Purchase,0
+630,1271,185.69081434447455,25,2,1,Tablet,USA,Bank Transfer,Withdrawal,0
+631,1188,169.10172680402846,20,13,0,Tablet,Germany,Debit Card,Transfer,0
+632,1998,117.45294678696129,34,9,0,Desktop,UK,Credit Card,Transfer,0
+633,1703,101.52013912672801,26,4,3,Unknown,Unknown,Credit Card,Transfer,0
+634,1446,104.80125306873045,5,5,3,Desktop,India,Credit Card,Withdrawal,0
+635,1580,124.54071890921666,99,11,2,Mobile,UK,Credit Card,Transfer,0
+636,1789,59.08829739206378,61,19,1,Desktop,Germany,Credit Card,Purchase,0
+637,1860,89.70493850306619,92,3,3,Mobile,USA,Bank Transfer,Withdrawal,0
+638,1246,33.25663704489642,93,12,2,Unknown,UK,Bank Transfer,Transfer,0
+639,1962,115.96892490421118,9,19,2,Tablet,UK,Crypto,Purchase,0
+640,1075,125.88783758810965,116,19,3,Tablet,Unknown,Credit Card,Purchase,0
+641,1153,80.67254150802503,102,13,0,Desktop,India,Debit Card,Transfer,0
+642,1655,162.9594705316013,50,7,1,Tablet,India,Credit Card,Purchase,0
+643,1434,50.96937347990635,6,15,1,Unknown,USA,Bank Transfer,Transfer,1
+644,1996,41.42500479160719,83,7,0,Tablet,Germany,Credit Card,Purchase,0
+645,1085,108.97807274239888,60,8,3,Desktop,USA,Bank Transfer,Withdrawal,0
+646,1696,141.88393210448618,44,5,1,Unknown,UK,Crypto,Withdrawal,0
+647,1284,167.35710765831476,11,14,3,Mobile,UK,Crypto,Withdrawal,1
+648,1973,81.6446294852424,66,4,3,Desktop,India,Crypto,Withdrawal,0
+649,1219,143.14723333725183,47,10,2,Mobile,Germany,Bank Transfer,Withdrawal,0
+650,1068,98.45966121997171,108,15,0,Unknown,Unknown,Credit Card,Transfer,0
+651,1046,93.09490800236722,108,18,3,Desktop,Germany,Credit Card,Withdrawal,0
+652,1093,135.3463974994669,73,13,4,Desktop,UK,Debit Card,Withdrawal,0
+653,1749,126.09291513653679,85,8,0,Unknown,Unknown,Bank Transfer,Withdrawal,0
+654,1957,36.94431372063002,88,9,1,Tablet,Germany,Debit Card,Withdrawal,0
+655,1452,159.06161398903583,98,16,2,Desktop,Germany,Crypto,Purchase,0
+656,1203,155.20365416589806,86,19,1,Desktop,Unknown,Credit Card,Withdrawal,0
+657,1911,74.97749193961883,3,16,1,Mobile,UK,Bank Transfer,Withdrawal,0
+658,1217,115.83214133749637,76,7,0,Tablet,Germany,Debit Card,Transfer,0
+659,1473,119.76120745130956,92,14,1,Mobile,Unknown,Debit Card,Purchase,0
+660,1431,110.42695063295628,30,14,3,Mobile,UK,Debit Card,Transfer,0
+661,1340,77.9877938461832,90,4,1,Tablet,Unknown,Credit Card,Withdrawal,0
+662,1550,73.13506528247794,112,15,2,Tablet,Unknown,Credit Card,Transfer,0
+663,1611,98.97783716034219,21,3,2,Unknown,Germany,Credit Card,Transfer,0
+664,1288,146.90916077037457,28,5,4,Tablet,UK,Bank Transfer,Withdrawal,0
+665,1253,121.74400618377729,90,1,2,Desktop,Germany,Credit Card,Purchase,0
+666,1733,85.17542671655576,62,3,1,Tablet,USA,Bank Transfer,Purchase,0
+667,1356,130.86794842593378,33,15,2,Unknown,USA,Debit Card,Transfer,0
+668,1022,10.0,85,8,0,Unknown,UK,Debit Card,Withdrawal,0
+669,1761,145.95062801488413,35,4,2,Unknown,Unknown,Crypto,Transfer,0
+670,1521,30.41144884887602,52,2,3,Tablet,Germany,Credit Card,Transfer,0
+671,1757,85.50236234387471,34,10,0,Tablet,Germany,Debit Card,Transfer,0
+672,1836,55.213204214954246,41,4,4,Mobile,UK,Credit Card,Withdrawal,0
+673,1099,48.21274097116377,51,3,3,Mobile,UK,Bank Transfer,Withdrawal,0
+674,1801,146.43307149514078,47,2,1,Desktop,USA,Debit Card,Purchase,0
+675,1179,81.29195194752435,82,17,1,Mobile,India,Credit Card,Withdrawal,0
+676,1222,113.86015526922863,58,13,1,Desktop,UK,Debit Card,Transfer,0
+677,1905,98.12317684483264,75,5,3,Unknown,India,Debit Card,Transfer,0
+678,1761,119.08163308892486,57,9,3,Mobile,UK,Credit Card,Purchase,0
+679,1658,103.07287564241021,23,6,3,Tablet,Unknown,Debit Card,Withdrawal,0
+680,1441,48.68031103245721,48,5,0,Mobile,Unknown,Debit Card,Transfer,0
+681,1607,139.8506727778856,22,10,0,Desktop,USA,Debit Card,Purchase,0
+682,1768,80.2497366735475,17,8,1,Mobile,USA,Debit Card,Purchase,0
+683,1324,37.73672405360996,69,7,2,Unknown,India,Bank Transfer,Transfer,0
+684,1515,82.8753935613635,108,7,1,Tablet,UK,Debit Card,Transfer,0
+685,1015,160.03039162537243,11,6,4,Desktop,Germany,Crypto,Withdrawal,0
+686,1791,134.00886968453972,94,3,0,Tablet,USA,Debit Card,Purchase,0
+687,1335,86.05391462368563,15,19,3,Tablet,Germany,Credit Card,Transfer,0
+688,1758,86.02969182726285,91,15,0,Desktop,Germany,Crypto,Purchase,0
+689,1257,87.1345979513047,35,4,3,Tablet,UK,Bank Transfer,Withdrawal,0
+690,1496,183.06991934243365,33,12,4,Tablet,India,Crypto,Transfer,0
+691,1987,115.27741808926214,84,6,4,Mobile,UK,Crypto,Withdrawal,0
+692,1895,117.20166588764279,16,19,0,Tablet,USA,Crypto,Purchase,0
+693,1159,141.2113381612737,34,4,3,Tablet,Germany,Credit Card,Withdrawal,0
+694,1474,109.55156636106054,66,15,4,Tablet,UK,Credit Card,Withdrawal,0
+695,1851,89.63831416717187,99,9,1,Tablet,UK,Credit Card,Purchase,0
+696,1663,92.14600603660087,40,5,1,Desktop,UK,Bank Transfer,Withdrawal,0
+697,1907,97.13594962343744,28,13,3,Unknown,USA,Credit Card,Purchase,0
+698,1689,98.51111053960634,47,18,0,Mobile,India,Credit Card,Transfer,0
+699,1674,129.1051817454792,39,5,4,Tablet,UK,Crypto,Purchase,0
+700,1379,102.07783543229198,70,16,0,Tablet,USA,Credit Card,Purchase,0
+701,1544,129.30560308862317,73,19,1,Desktop,Germany,Debit Card,Transfer,0
+702,1928,96.77133679565671,20,14,4,Unknown,Unknown,Credit Card,Purchase,0
+703,1956,103.14540761264362,1,16,0,Tablet,USA,Bank Transfer,Transfer,0
+704,1690,20.07197261871569,72,15,2,Desktop,Unknown,Bank Transfer,Transfer,0
+705,1426,136.65310698809927,119,4,3,Mobile,UK,Debit Card,Purchase,0
+706,1612,113.85953903591971,87,7,3,Mobile,UK,Bank Transfer,Withdrawal,0
+707,1267,139.92040439438608,63,16,2,Tablet,USA,Bank Transfer,Withdrawal,0
+708,1834,10.0,67,8,1,Tablet,Unknown,Crypto,Transfer,0
+709,1576,183.5349881912291,4,17,4,Unknown,UK,Debit Card,Withdrawal,1
+710,1416,94.41641487379304,58,16,3,Unknown,Germany,Crypto,Withdrawal,0
+711,1167,144.32731266950066,25,10,2,Tablet,India,Crypto,Purchase,0
+712,1841,58.40376291497876,47,10,2,Desktop,India,Credit Card,Transfer,0
+713,1042,124.51095620250278,38,2,1,Unknown,UK,Debit Card,Transfer,0
+714,1555,57.86337747305375,15,9,1,Tablet,Unknown,Credit Card,Purchase,0
+715,1284,75.0492415721678,63,17,0,Unknown,UK,Credit Card,Withdrawal,0
+716,1396,176.56125415467145,21,11,3,Tablet,Unknown,Crypto,Transfer,0
+717,1011,92.37270396946613,99,10,0,Mobile,Germany,Bank Transfer,Withdrawal,0
+718,1606,108.69731492718891,57,17,2,Tablet,Unknown,Debit Card,Transfer,0
+719,1301,134.80270922755017,117,4,4,Mobile,UK,Bank Transfer,Transfer,0
+720,1897,119.82727551890419,53,16,4,Unknown,Germany,Crypto,Transfer,1
+721,1252,106.01675620574306,46,15,1,Tablet,USA,Crypto,Transfer,0
+722,1498,114.59844009864902,116,5,4,Unknown,India,Crypto,Withdrawal,0
+723,1753,196.136623409531,14,6,4,Mobile,UK,Crypto,Withdrawal,0
+724,1034,97.69524811865658,100,17,4,Tablet,UK,Crypto,Withdrawal,0
+725,1726,108.0439618685987,76,1,2,Unknown,UK,Crypto,Withdrawal,0
+726,1848,142.0261758403045,17,19,4,Mobile,Germany,Bank Transfer,Purchase,0
+727,1089,144.22103731831936,39,4,4,Unknown,USA,Credit Card,Transfer,0
+728,1775,147.4812122224152,9,17,4,Desktop,Unknown,Bank Transfer,Transfer,1
+729,1604,125.54920888116739,99,9,0,Mobile,USA,Debit Card,Transfer,0
+730,1921,54.27980349078066,77,2,2,Mobile,Germany,Bank Transfer,Purchase,0
+731,1969,165.33726129204382,79,8,1,Mobile,UK,Crypto,Withdrawal,0
+732,1601,54.14618427925248,82,15,0,Tablet,India,Bank Transfer,Transfer,0
+733,1417,112.10541860956133,115,7,3,Tablet,UK,Credit Card,Withdrawal,0
+734,1114,69.82896599922569,97,6,2,Tablet,Unknown,Debit Card,Withdrawal,0
+735,1616,97.43446613628029,6,1,2,Desktop,India,Bank Transfer,Purchase,0
+736,1902,113.15049641213922,91,15,3,Desktop,UK,Credit Card,Purchase,0
+737,1195,112.85428861801093,23,7,3,Mobile,India,Bank Transfer,Withdrawal,0
+738,1825,116.87683016941139,59,17,3,Desktop,USA,Debit Card,Transfer,0
+739,1500,164.54845076234588,91,2,1,Unknown,Germany,Bank Transfer,Transfer,0
+740,1625,118.14137206055919,98,9,4,Mobile,UK,Crypto,Purchase,0
+741,1492,90.23373458837405,46,9,2,Mobile,Unknown,Bank Transfer,Purchase,0
+742,1074,138.56348673153428,38,13,4,Unknown,USA,Credit Card,Purchase,0
+743,1412,147.57881955698562,14,6,4,Mobile,UK,Bank Transfer,Purchase,0
+744,1375,50.8956873945203,100,6,3,Desktop,USA,Credit Card,Purchase,0
+745,1419,123.89600279399431,117,3,1,Tablet,Unknown,Debit Card,Purchase,0
+746,1728,128.04690969243592,72,17,0,Unknown,UK,Bank Transfer,Purchase,0
+747,1276,88.09745986560033,62,17,1,Desktop,Unknown,Debit Card,Transfer,0
+748,1760,155.02827253246477,35,12,4,Unknown,India,Debit Card,Purchase,0
+749,1675,93.99777651869893,19,16,1,Unknown,Unknown,Bank Transfer,Purchase,0
+750,1393,105.02305813886169,30,15,3,Mobile,India,Credit Card,Transfer,0
+751,1868,93.07712702864522,78,13,0,Mobile,UK,Debit Card,Transfer,0
+752,1456,100.6231619032587,84,1,3,Desktop,India,Debit Card,Withdrawal,0
+753,1919,56.14899652419193,113,17,0,Unknown,UK,Bank Transfer,Purchase,0
+754,1191,42.39796469622823,25,3,4,Mobile,UK,Bank Transfer,Purchase,0
+755,1738,163.78020252899887,40,15,0,Mobile,Germany,Bank Transfer,Purchase,0
+756,1688,66.12154606726689,88,4,0,Unknown,UK,Bank Transfer,Purchase,0
+757,1098,60.34430602174771,14,4,0,Desktop,India,Bank Transfer,Withdrawal,0
+758,1547,13.864395455851408,26,18,1,Desktop,Germany,Crypto,Transfer,0
+759,1977,74.44153009241991,102,17,1,Unknown,Germany,Bank Transfer,Transfer,0
+760,1998,47.07640826370007,87,19,4,Desktop,UK,Credit Card,Purchase,0
+761,1095,165.68060640545477,22,11,0,Mobile,Unknown,Debit Card,Purchase,0
+762,1663,140.39268357370537,48,3,2,Unknown,Unknown,Credit Card,Purchase,0
+763,1662,72.47398619289105,83,8,4,Mobile,Germany,Credit Card,Withdrawal,0
+764,1189,190.09743221377235,110,14,0,Tablet,UK,Crypto,Withdrawal,0
+765,1735,139.27061947966376,51,1,0,Tablet,Unknown,Bank Transfer,Transfer,0
+766,1036,87.0067446596551,3,14,1,Desktop,UK,Debit Card,Purchase,0
+767,1779,10.0,42,2,4,Tablet,UK,Credit Card,Purchase,0
+768,1368,191.63770290362967,19,4,0,Mobile,Germany,Bank Transfer,Purchase,0
+769,1694,44.41710132945616,73,19,0,Tablet,Germany,Bank Transfer,Purchase,0
+770,1524,34.184050121724326,28,6,4,Mobile,USA,Crypto,Withdrawal,0
+771,1278,140.90281728038562,84,1,2,Desktop,Unknown,Crypto,Transfer,0
+772,1216,197.59009625357092,45,17,4,Desktop,Unknown,Crypto,Transfer,0
+773,1866,155.37091274042072,71,8,4,Mobile,Unknown,Debit Card,Withdrawal,0
+774,1872,122.55636480209438,78,19,2,Tablet,India,Credit Card,Purchase,0
+775,1797,123.79017366661144,63,1,4,Desktop,UK,Crypto,Transfer,0
+776,1272,134.1366223512123,73,5,0,Unknown,Germany,Crypto,Transfer,0
+777,1880,130.35714359147062,119,16,4,Desktop,Unknown,Crypto,Withdrawal,0
+778,1061,111.24765695877502,19,6,2,Tablet,USA,Credit Card,Purchase,0
+779,1595,104.16804415807505,47,8,3,Unknown,Unknown,Credit Card,Transfer,0
+780,1879,97.4962748840191,116,13,4,Tablet,UK,Crypto,Purchase,0
+781,1728,69.84141644533295,14,16,1,Mobile,UK,Crypto,Transfer,0
+782,1341,88.77299692532904,38,3,0,Unknown,Germany,Bank Transfer,Withdrawal,0
+783,1396,32.28172743218458,53,19,0,Tablet,India,Crypto,Purchase,0
+784,1698,96.06641492821001,61,12,1,Unknown,Germany,Debit Card,Withdrawal,0
+785,1018,60.456355713963305,36,16,1,Tablet,Unknown,Debit Card,Transfer,0
+786,1176,55.85642731136916,40,11,4,Unknown,USA,Crypto,Withdrawal,0
+787,1611,107.19576604613914,81,10,1,Tablet,Germany,Credit Card,Withdrawal,0
+788,1395,155.68009145378397,30,4,3,Mobile,India,Bank Transfer,Withdrawal,0
+789,1444,136.7326642400925,9,12,2,Unknown,Germany,Credit Card,Transfer,1
+790,1232,37.17997585507292,64,2,1,Unknown,UK,Crypto,Purchase,0
+791,1914,60.4148745371865,33,19,1,Unknown,Unknown,Debit Card,Withdrawal,0
+792,1075,137.63084751952863,52,5,3,Unknown,Unknown,Bank Transfer,Purchase,0
+793,1264,60.70050425846762,89,8,0,Mobile,Unknown,Credit Card,Transfer,0
+794,1454,91.01467400011902,14,7,0,Unknown,Unknown,Credit Card,Purchase,0
+795,1795,122.00208396098208,75,14,4,Desktop,Unknown,Crypto,Withdrawal,0
+796,1717,61.26622180545459,53,3,3,Mobile,Unknown,Bank Transfer,Withdrawal,0
+797,1734,104.21502024583839,99,18,2,Desktop,USA,Debit Card,Withdrawal,0
+798,1383,46.63898020327182,105,16,2,Unknown,India,Crypto,Withdrawal,0
+799,1563,75.94529424195144,59,19,3,Tablet,Unknown,Bank Transfer,Withdrawal,0
+800,1850,112.79127736570148,78,19,2,Desktop,India,Credit Card,Withdrawal,0
+801,1505,36.28025065873323,94,18,0,Unknown,Unknown,Crypto,Transfer,0
+802,1366,117.61898951841596,41,16,2,Desktop,Germany,Credit Card,Transfer,0
+803,1143,99.21448804293276,68,8,2,Unknown,Unknown,Credit Card,Transfer,0
+804,1884,122.0995981766859,68,1,3,Unknown,UK,Crypto,Purchase,0
+805,1068,108.95656536258646,92,17,3,Unknown,USA,Crypto,Purchase,0
+806,1098,154.56561719895376,8,12,2,Tablet,Germany,Crypto,Transfer,0
+807,1395,105.0089801059163,2,11,1,Desktop,Germany,Crypto,Purchase,0
+808,1024,82.82377835498988,105,5,3,Mobile,UK,Crypto,Purchase,0
+809,1947,104.89190012129136,110,12,4,Mobile,Unknown,Credit Card,Withdrawal,0
+810,1890,121.73192116145552,86,17,4,Mobile,USA,Debit Card,Withdrawal,0
+811,1468,101.95440281302817,41,6,0,Mobile,Germany,Debit Card,Purchase,0
+812,1483,101.62366764815529,55,1,2,Unknown,USA,Crypto,Purchase,0
+813,1564,71.92033248772978,16,5,1,Desktop,Germany,Credit Card,Transfer,0
+814,1150,73.48396329796208,93,14,0,Desktop,Unknown,Debit Card,Purchase,0
+815,1143,43.89578912801226,62,5,2,Tablet,Germany,Debit Card,Withdrawal,0
+816,1568,169.98306972747758,113,1,3,Desktop,Germany,Debit Card,Purchase,0
+817,1038,50.245470584348595,48,18,4,Desktop,India,Credit Card,Transfer,0
+818,1108,72.28379208816371,30,16,1,Desktop,Unknown,Crypto,Withdrawal,0
+819,1692,71.2637093772321,12,9,4,Tablet,UK,Crypto,Withdrawal,0
+820,1041,135.79697507777766,35,19,3,Mobile,UK,Crypto,Withdrawal,0
+821,1185,88.20201286831889,11,5,2,Desktop,Unknown,Bank Transfer,Withdrawal,0
+822,1934,149.90968290694934,64,2,3,Tablet,UK,Bank Transfer,Purchase,0
+823,1397,73.06037503024527,110,15,3,Tablet,Unknown,Bank Transfer,Transfer,0
+824,1222,111.15976648895207,50,7,4,Unknown,UK,Credit Card,Purchase,0
+825,1633,66.58611786960971,85,4,1,Tablet,India,Debit Card,Purchase,0
+826,1132,185.80596511093552,21,1,3,Mobile,UK,Debit Card,Withdrawal,0
+827,1162,52.49606323881949,69,13,4,Desktop,Germany,Credit Card,Transfer,0
+828,1214,112.3928284090811,48,7,1,Tablet,Unknown,Credit Card,Withdrawal,0
+829,1732,125.35107523728394,20,15,2,Mobile,USA,Crypto,Purchase,0
+830,1234,116.55196389805994,101,14,2,Tablet,USA,Crypto,Purchase,0
+831,1842,92.58849364489167,67,19,0,Tablet,Unknown,Bank Transfer,Withdrawal,0
+832,1657,94.80717201066295,44,18,4,Tablet,India,Bank Transfer,Purchase,0
+833,1750,101.75245887916438,33,10,1,Tablet,UK,Credit Card,Purchase,0
+834,1587,94.11991993486046,117,9,3,Tablet,India,Bank Transfer,Withdrawal,0
+835,1008,138.55516467179638,73,8,2,Mobile,USA,Debit Card,Purchase,0
+836,1073,188.42092006365405,61,10,1,Desktop,Unknown,Credit Card,Transfer,0
+837,1953,77.70032859968666,9,17,4,Desktop,Unknown,Credit Card,Withdrawal,1
+838,1491,45.20788081683689,68,2,0,Desktop,India,Debit Card,Transfer,0
+839,1912,96.4687180659498,35,6,2,Desktop,India,Crypto,Purchase,0
+840,1252,203.18837350617275,81,5,1,Mobile,UK,Crypto,Purchase,0
+841,1229,67.85301728121077,98,9,1,Unknown,Germany,Debit Card,Withdrawal,0
+842,1518,165.5646722177627,88,5,1,Unknown,Germany,Debit Card,Purchase,0
+843,1173,167.10803256305763,96,18,4,Mobile,UK,Bank Transfer,Withdrawal,0
+844,1652,77.85647033168021,65,9,4,Mobile,Germany,Credit Card,Withdrawal,0
+845,1167,122.75932316741101,8,17,4,Tablet,USA,Bank Transfer,Withdrawal,1
+846,1169,165.1358649251415,45,17,3,Tablet,Germany,Debit Card,Withdrawal,0
+847,1392,84.83489036050051,87,12,1,Tablet,UK,Bank Transfer,Withdrawal,0
+848,1945,91.85678559590554,47,7,2,Desktop,Germany,Debit Card,Transfer,0
+849,1794,76.73276344205425,40,3,4,Tablet,Unknown,Bank Transfer,Withdrawal,0
+850,1633,59.40973077228533,76,10,4,Unknown,India,Bank Transfer,Transfer,0
+851,1193,74.02889819735972,54,2,1,Desktop,USA,Crypto,Purchase,0
+852,1516,51.04238932950974,76,3,4,Tablet,Unknown,Debit Card,Withdrawal,0
+853,1028,101.36333873036904,46,16,3,Desktop,Unknown,Bank Transfer,Purchase,0
+854,1164,69.20107075765432,47,2,3,Unknown,UK,Credit Card,Withdrawal,0
+855,1421,109.35143647162991,15,10,4,Tablet,India,Bank Transfer,Transfer,0
+856,1338,37.76417415185491,105,6,1,Unknown,India,Bank Transfer,Transfer,0
+857,1647,113.23520928857829,19,11,1,Unknown,USA,Credit Card,Transfer,0
+858,1495,133.341158464357,26,7,1,Unknown,UK,Debit Card,Purchase,0
+859,1364,20.25057429714178,52,15,0,Tablet,USA,Crypto,Withdrawal,0
+860,1832,114.96226279390288,93,6,4,Mobile,Germany,Crypto,Purchase,0
+861,1341,149.10675969893168,22,9,1,Tablet,Unknown,Crypto,Transfer,0
+862,1499,51.61435925235178,104,12,3,Unknown,USA,Credit Card,Purchase,0
+863,1656,166.90289547350812,21,19,2,Tablet,Unknown,Bank Transfer,Transfer,0
+864,1510,116.7607603746418,51,3,2,Unknown,UK,Debit Card,Transfer,0
+865,1326,71.79952576966365,38,15,1,Mobile,Germany,Bank Transfer,Transfer,0
+866,1216,97.76923689369175,20,2,2,Desktop,UK,Crypto,Withdrawal,0
+867,1300,122.3330765008689,29,2,2,Mobile,Germany,Bank Transfer,Withdrawal,0
+868,1131,103.04021565649646,51,3,0,Mobile,Germany,Credit Card,Transfer,0
+869,1803,121.55023969785476,4,6,3,Desktop,Unknown,Credit Card,Purchase,0
+870,1069,63.17305627682535,55,15,3,Tablet,UK,Debit Card,Purchase,0
+871,1251,106.77443296144313,71,10,0,Desktop,UK,Debit Card,Withdrawal,0
+872,1414,43.451420123800794,92,9,0,Tablet,USA,Crypto,Transfer,0
+873,1786,95.55095754605199,28,1,2,Tablet,UK,Debit Card,Purchase,0
+874,1444,63.84369434140841,4,16,4,Unknown,USA,Bank Transfer,Transfer,1
+875,1875,70.57880229640934,22,6,2,Unknown,India,Credit Card,Purchase,0
+876,1181,149.4437270084175,76,9,0,Desktop,India,Credit Card,Withdrawal,0
+877,1166,143.65240482377075,45,4,3,Mobile,India,Credit Card,Transfer,0
+878,1090,124.36552483628708,67,2,2,Desktop,UK,Debit Card,Transfer,0
+879,1713,56.30748941309684,86,4,4,Tablet,UK,Credit Card,Purchase,0
+880,1857,87.34366201220793,108,1,2,Unknown,USA,Credit Card,Purchase,0
+881,1530,148.52390799916733,66,19,1,Desktop,Germany,Credit Card,Purchase,0
+882,1038,105.66867654559618,88,10,2,Desktop,USA,Crypto,Transfer,0
+883,1125,192.7731815992678,34,15,0,Unknown,India,Crypto,Withdrawal,0
+884,1450,115.73271357577488,91,19,3,Unknown,USA,Debit Card,Withdrawal,0
+885,1172,107.68196465960126,55,16,3,Unknown,Germany,Credit Card,Purchase,0
+886,1652,87.63534143189995,105,4,0,Tablet,UK,Debit Card,Withdrawal,0
+887,1753,105.34163619129129,1,2,1,Unknown,USA,Credit Card,Purchase,0
+888,1219,93.90120654477825,72,13,0,Mobile,India,Credit Card,Withdrawal,0
+889,1637,128.3243470675436,87,1,2,Desktop,India,Credit Card,Transfer,0
+890,1057,138.26809267178336,38,17,0,Unknown,UK,Debit Card,Purchase,0
+891,1659,68.56042157968201,6,13,0,Unknown,USA,Debit Card,Withdrawal,0
+892,1475,46.750681857688875,86,4,1,Tablet,Germany,Credit Card,Transfer,0
+893,1455,26.55178507586814,25,7,2,Tablet,UK,Bank Transfer,Withdrawal,0
+894,1828,120.31965307650175,82,17,4,Desktop,USA,Debit Card,Transfer,0
+895,1894,55.86533575304506,17,9,4,Mobile,Unknown,Crypto,Transfer,0
+896,1360,13.884376281900686,61,4,3,Desktop,India,Debit Card,Withdrawal,0
+897,1934,115.54314418123856,12,19,0,Unknown,Germany,Credit Card,Withdrawal,0
+898,1000,199.71998069731163,6,1,3,Mobile,Germany,Bank Transfer,Transfer,0
+899,1386,99.75716353840427,90,10,1,Mobile,Germany,Credit Card,Transfer,0
+900,1972,133.53963097806567,27,4,4,Mobile,India,Crypto,Transfer,0
+901,1347,103.2731743419026,8,9,0,Mobile,USA,Debit Card,Purchase,0
+902,1189,96.0444138723543,83,13,1,Desktop,UK,Debit Card,Transfer,0
+903,1504,136.76305931951075,106,14,1,Tablet,USA,Credit Card,Purchase,0
+904,1190,88.38901823245395,65,10,0,Tablet,UK,Credit Card,Transfer,0
+905,1507,110.69569256287612,57,6,1,Unknown,Germany,Crypto,Purchase,0
+906,1368,112.86791224784055,93,16,0,Tablet,USA,Bank Transfer,Transfer,0
+907,1408,73.27638185427804,109,6,0,Tablet,Germany,Crypto,Transfer,0
+908,1823,139.6816939814609,113,17,2,Tablet,Unknown,Bank Transfer,Transfer,0
+909,1928,93.00160973218365,99,10,3,Tablet,Germany,Debit Card,Withdrawal,0
+910,1933,69.77019362028621,40,18,1,Unknown,Germany,Bank Transfer,Withdrawal,0
+911,1116,121.46039374281614,14,18,1,Desktop,UK,Bank Transfer,Transfer,0
+912,1133,64.06128072835851,35,3,2,Mobile,Unknown,Debit Card,Purchase,0
+913,1057,101.12724629476513,48,15,2,Tablet,Germany,Debit Card,Purchase,0
+914,1555,99.63524013423186,109,15,2,Desktop,Germany,Debit Card,Transfer,0
+915,1684,143.43582263326311,84,4,4,Tablet,Unknown,Crypto,Withdrawal,0
+916,1671,118.98792931519812,56,9,4,Tablet,Unknown,Debit Card,Purchase,0
+917,1172,98.99892165019425,49,19,4,Mobile,USA,Credit Card,Withdrawal,0
+918,1828,132.7106519680115,13,17,0,Mobile,UK,Debit Card,Purchase,0
+919,1814,155.60830196069253,61,11,1,Mobile,Unknown,Debit Card,Transfer,0
+920,1148,122.31241225407449,102,9,3,Tablet,Unknown,Debit Card,Withdrawal,0
+921,1079,100.41410479373522,49,10,0,Tablet,India,Bank Transfer,Purchase,0
+922,1885,47.526550705993614,46,18,1,Tablet,Unknown,Crypto,Transfer,0
+923,1212,57.3954534769851,113,13,1,Mobile,UK,Debit Card,Transfer,0
+924,1202,87.7910118258133,62,8,2,Unknown,Germany,Crypto,Transfer,0
+925,1763,75.61951191362867,8,7,2,Desktop,Germany,Credit Card,Withdrawal,0
+926,1228,92.52114788058216,43,17,0,Unknown,Germany,Credit Card,Withdrawal,0
+927,1675,102.26599699588428,20,15,2,Tablet,Germany,Debit Card,Transfer,0
+928,1226,121.18771017426923,97,15,1,Tablet,India,Credit Card,Withdrawal,0
+929,1658,97.18004887763635,90,1,2,Unknown,Unknown,Crypto,Purchase,0
+930,1531,119.46006575304807,39,14,4,Tablet,Germany,Bank Transfer,Transfer,0
+931,1440,102.57897659240481,85,5,2,Desktop,USA,Debit Card,Transfer,0
+932,1401,20.981337345845148,117,11,1,Tablet,Germany,Credit Card,Withdrawal,0
+933,1046,62.42658424724983,49,16,0,Desktop,Unknown,Crypto,Transfer,0
+934,1232,94.23649777113538,64,2,3,Unknown,Germany,Crypto,Purchase,0
+935,1304,51.6122102863557,62,8,2,Unknown,India,Credit Card,Withdrawal,0
+936,1525,123.99714919984818,106,11,1,Tablet,UK,Crypto,Withdrawal,0
+937,1142,161.2300332937479,107,18,3,Desktop,UK,Crypto,Transfer,0
+938,1414,148.75047406789267,54,3,3,Tablet,Unknown,Debit Card,Transfer,0
+939,1512,91.46228516279169,105,1,4,Mobile,UK,Crypto,Transfer,0
+940,1372,159.62904547399808,9,11,3,Mobile,UK,Credit Card,Withdrawal,1
+941,1565,105.94669828808446,88,16,1,Mobile,USA,Debit Card,Transfer,0
+942,1885,86.51656115527842,37,18,1,Mobile,Unknown,Credit Card,Purchase,0
+943,1258,75.4638934583624,49,16,2,Tablet,Unknown,Bank Transfer,Transfer,0
+944,1655,87.90121254047486,41,10,2,Mobile,UK,Credit Card,Transfer,0
+945,1470,84.47292725835085,17,18,2,Desktop,UK,Credit Card,Withdrawal,0
+946,1952,106.81664889501951,88,6,3,Unknown,UK,Debit Card,Transfer,0
+947,1970,106.42295924199459,21,19,3,Unknown,India,Crypto,Withdrawal,0
+948,1011,100.12184080613657,51,4,4,Mobile,Germany,Credit Card,Transfer,0
+949,1329,117.477526789854,59,13,2,Mobile,India,Debit Card,Purchase,0
+950,1735,147.62585099145366,39,14,0,Mobile,Unknown,Bank Transfer,Purchase,0
+951,1783,137.98216541765294,55,3,4,Tablet,USA,Debit Card,Withdrawal,0
+952,1967,40.60408126200386,41,10,0,Unknown,Germany,Debit Card,Withdrawal,0
+953,1357,10.0,39,6,3,Mobile,USA,Crypto,Transfer,0
+954,1971,137.37279644957096,13,1,4,Desktop,Unknown,Credit Card,Transfer,0
+955,1407,45.324852063383155,64,14,4,Mobile,Unknown,Bank Transfer,Purchase,0
+956,1667,91.00938392429266,11,8,1,Unknown,USA,Debit Card,Transfer,0
+957,1372,53.19547895762562,110,19,3,Mobile,USA,Credit Card,Purchase,0
+958,1007,27.920782496799205,19,14,3,Unknown,USA,Credit Card,Withdrawal,0
+959,1121,121.65850912819153,11,10,4,Mobile,Unknown,Debit Card,Transfer,0
+960,1347,130.36620641210587,77,17,3,Desktop,UK,Credit Card,Withdrawal,0
+961,1675,76.93958397093122,46,9,4,Mobile,USA,Debit Card,Transfer,0
+962,1089,10.0,45,6,1,Desktop,Germany,Debit Card,Purchase,0
+963,1647,78.15022206990069,1,11,4,Desktop,Unknown,Debit Card,Withdrawal,1
+964,1697,115.67216021610186,40,7,3,Mobile,India,Bank Transfer,Withdrawal,0
+965,1315,40.84353724903485,108,17,3,Desktop,India,Debit Card,Transfer,0
+966,1177,107.33439679116623,19,1,4,Tablet,Germany,Crypto,Withdrawal,0
+967,1539,99.38760603308017,76,5,4,Mobile,UK,Credit Card,Purchase,0
+968,1731,123.17165998404354,72,9,4,Mobile,USA,Bank Transfer,Withdrawal,0
+969,1868,104.78321473656612,72,18,2,Desktop,Unknown,Credit Card,Withdrawal,0
+970,1040,61.07724236473778,61,2,3,Desktop,USA,Bank Transfer,Transfer,0
+971,1739,147.86286006657966,117,11,3,Mobile,Unknown,Crypto,Withdrawal,0
+972,1703,93.6588170789212,109,6,2,Tablet,India,Bank Transfer,Transfer,0
+973,1922,98.90781841960272,12,8,4,Desktop,USA,Bank Transfer,Transfer,0
+974,1501,62.66928163707216,61,4,1,Desktop,Germany,Bank Transfer,Withdrawal,0
+975,1958,82.26870995233959,112,18,4,Unknown,UK,Credit Card,Purchase,0
+976,1144,64.60789143892396,33,11,4,Tablet,Germany,Debit Card,Transfer,0
+977,1200,93.08215760306308,45,5,2,Tablet,UK,Credit Card,Withdrawal,0
+978,1928,168.46833920569372,90,15,3,Mobile,USA,Debit Card,Transfer,0
+979,1723,45.12395428274574,103,18,4,Tablet,USA,Credit Card,Purchase,0
+980,1460,35.45754408493036,92,2,3,Mobile,UK,Crypto,Purchase,0
+981,1731,158.84681309974434,69,11,0,Unknown,India,Crypto,Transfer,0
+982,1751,91.62705291392535,8,13,3,Tablet,Unknown,Bank Transfer,Purchase,1
+983,1924,73.23709045360334,25,4,1,Desktop,Germany,Crypto,Withdrawal,0
+984,1908,141.59618749584305,91,7,1,Unknown,Germany,Bank Transfer,Withdrawal,0
+985,1557,75.77537841052543,46,11,4,Mobile,Germany,Debit Card,Transfer,0
+986,1546,173.04038854187746,87,4,3,Unknown,USA,Crypto,Purchase,0
+987,1252,127.11703485357077,30,15,4,Mobile,Germany,Debit Card,Withdrawal,0
+988,1389,80.4835436741719,109,1,2,Unknown,Unknown,Credit Card,Withdrawal,0
+989,1593,186.29232853062013,47,3,1,Mobile,Unknown,Debit Card,Withdrawal,0
+990,1882,75.77140307986646,87,14,4,Tablet,UK,Credit Card,Transfer,0
+991,1255,129.68381488037227,49,6,2,Desktop,USA,Debit Card,Transfer,0
+992,1708,111.97170321625967,47,18,4,Mobile,Unknown,Debit Card,Withdrawal,0
+993,1814,152.06965157595192,84,1,3,Unknown,India,Crypto,Withdrawal,0
+994,1920,162.4604478690741,82,6,3,Mobile,USA,Debit Card,Purchase,0
+995,1449,101.28016596263066,18,6,3,Mobile,USA,Crypto,Purchase,0
+996,1009,69.86328518615267,66,16,3,Mobile,Unknown,Crypto,Purchase,0
+997,1823,118.39888571756465,68,5,0,Unknown,India,Bank Transfer,Transfer,0
+998,1797,72.89138520991575,94,17,2,Desktop,UK,Bank Transfer,Withdrawal,0
+999,1241,180.53548990106492,33,10,2,Tablet,Unknown,Credit Card,Transfer,0
+1000,1250,105.4614132433095,36,18,3,Desktop,India,Debit Card,Withdrawal,0
